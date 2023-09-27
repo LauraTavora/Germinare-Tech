@@ -6,6 +6,8 @@ votos = 0
 opcoes_votos = 1,2,3,4
 
 while (votos <= 20):
+    if votacao != opcoes_votos:
+        votacao = 0
     votacao = int(input('Vote em um dos candidatos acima: '))
 
 
