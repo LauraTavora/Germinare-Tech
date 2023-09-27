@@ -1,38 +1,53 @@
 lucas = 0
 wellington = 0
 gabriella = 0
-voto_branco = 0
-votos = 0 
-opcoes_votos = 1,2,3,4
+votos_validos = 0 
 
-while (votos <= 20):
-    if votacao != opcoes_votos:
-        votacao = 0
-    votacao = int(input('Vote em um dos candidatos acima: '))
-
+while True:
 
     print('[1] Lucas')
-    if votacao == 1:
-        lucas += 1 
-    else:
-        lucas += 0
     print('[2] Wellington')
-    if votacao == 2:
-        wellington += 1
-    else:
-        wellington += 0
     print('[3] Gabriella')
-    if votacao == 3:
+    print('[4] Voto em branco')
+
+    votacao = int(input('Vote em um dos candidatos acima: '))
+
+    if votacao == 1:
+        votos_validos += 1
+        lucas += 1
+    elif votacao == 2:
+        votos_validos += 1
+        wellington += 1
+    elif votacao == 3:
+        votos_validos += 1
         gabriella += 1
     else:
+        votos_validos += 0
+        lucas += 0
+        wellington += 0 
         gabriella += 0
-    print('[4] Voto em branco')
-    if votacao == 4:
-        voto_branco += 1
-    else:
-        voto_branco += 0
-    
-    
 
+    parada = input('Você quer continuar inserindo votos? ')
+    if parada.lower() != 's':
+        break
 
-    votos += 1
+candidato_1 = 'Lucas'
+candidato_2 = 'Wellington'
+candidato_3 = 'Gabriella'
+
+if lucas > wellington and lucas > gabriella:
+    vencedor = candidato_1
+    resultado = (lucas / votos_validos) * 100
+elif wellington > lucas and wellington > gabriella:
+    vencedor = candidato_2
+    resultado = (wellington / votos_validos) * 100
+else:
+    vencedor = candidato_3
+    resultado = (gabriella / votos_validos) * 100
+        
+           
+print('==========RESULTADO=========')
+
+print(f'Votos válidos: {votos_validos}')
+print(f'O vencedor foi {vencedor} com {resultado:.2f}%')
+print('='*30)
