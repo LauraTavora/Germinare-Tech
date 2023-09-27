@@ -50,4 +50,4 @@ print('==========RESULTADO=========')
 
 print(f'Votos válidos: {votos_validos}')
 print(f'O vencedor foi {vencedor} com {resultado:.2f}%')
-print('='*30)
+print('='*28)
