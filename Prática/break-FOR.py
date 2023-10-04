@@ -1,0 +1,6 @@
+vetor = [1,2,3,4,5,6,7,8,9,10]
+for i in vetor:
+    print(i)
+    if (i==3):
+        print('Chegou em 3. PARE!')
+        break
