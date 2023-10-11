@@ -14,10 +14,15 @@ def comprando_imovel():
     conta = 0
     meses = 0
 
-    while conta < valor_imovel:
+    for c in range(conta < valor_imovel):
         conta += investimento_mensal
         conta *= (1 + juros_decimal)
         meses += 1
+
+    #while conta < valor_imovel:
+        #conta += investimento_mensal
+        #conta *= (1 + juros_decimal)
+        #meses += 1
             
     print(f'O tempo necessário para comprar esse imóvel é {meses:.0f} meses')
 
