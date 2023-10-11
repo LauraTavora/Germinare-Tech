@@ -14,7 +14,7 @@ def comprando_imovel():
     conta = 0
     meses = 0
 
-    for c in range(conta < valor_imovel):
+    for conta in range(conta < valor_imovel):
         conta += investimento_mensal
         conta *= (1 + juros_decimal)
         meses += 1
