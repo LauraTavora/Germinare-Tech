@@ -50,7 +50,7 @@ def notas():
             maior_media = nome
         if menor == 0 or media < menor:
             menor = media
-            menor_media = nome
+            menor_media = nome 
         else:
             media = 0 
             
