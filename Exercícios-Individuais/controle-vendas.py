@@ -17,22 +17,30 @@ def menu():
 menu()
 
 def validar_codigo(codigos):
-    codigo_compra = int(input('Digite o código do produto desejado: '))
-    while codigo_compra not in codigos:
-        print('Código inválido. Digite um código que aparece no menu')
+    items_comprados = 0
+    codigos_produtos = []
+    precos_produtos = 0
+    codigos.append(999)
+    while True:
         codigo_compra = int(input('Digite o código do produto desejado: '))
+        
+        if codigo_compra in codigos:
+            index_codigos = codigos.index(codigo_compra)
+            if estoques[index_codigos] == 0:
+                print('Produto sem estoque. Escolha outro produto')
+            else:
+                estoques[index_codigos] -= 1
+                items_comprados += 1   
+                codigos_produtos.append(codigo_compra)  
+                precos_produtos += precos[index_codigos]
+        else:
+            print('Código inválido. Digite um código que aparece no menu')      
 
-
- 
-        #codigo_compra = int(input('Digite o código do produto desejado: '))
-
-    index_produto = codigos.index(codigo_compra)
-
-    if estoques[index_produto] == 0:
-        print('Produto sem estoque. Escolha outro produto')
-        input('Digite o código do produto desejado: ')
-    else:
-        estoques[index_produto] -= 1
+        if codigo_compra == 999:
+                print(f'A quantidade de produtos comprados foi de: {items_comprados}')
+                print(f'Códigos dos produtos comprados: {codigos_produtos}')
+                print(f'O valor total da compra foi de R${precos_produtos:.2f}')
+                break   
 
                     
 
