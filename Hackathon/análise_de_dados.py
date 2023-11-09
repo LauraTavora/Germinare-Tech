@@ -52,7 +52,7 @@ def menu(ativos):
                 -Ação de saúde
                 -Ação de energia''')
     elif escolha ==2:
-        print(f''' os ativoa indicados são:
+        print(f''' os ativos indicados são:
               -{ativos[0]}
               Segmentos indicados:
                 -Ação de alimentos

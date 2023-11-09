@@ -1,0 +1,7682 @@
+[
+    {
+        "data": "2023-04-27",
+        "ticker": "FLRY3.SA",
+        "preco": 100.0,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-04-27",
+        "ticker": "HGLG11.SA",
+        "preco": 100.0,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-04-27",
+        "ticker": "JBSS3.SA",
+        "preco": 100.0,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-04-27",
+        "ticker": "LREN3.SA",
+        "preco": 100.0,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-04-27",
+        "ticker": "MGLU3.SA",
+        "preco": 100.0,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-04-27",
+        "ticker": "MRFG3.SA",
+        "preco": 100.0,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-04-27",
+        "ticker": "RDOR3.SA",
+        "preco": 100.0,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-04-27",
+        "ticker": "TAEE3.SA",
+        "preco": 100.0,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-04-27",
+        "ticker": "TRPL3.SA",
+        "preco": 100.0,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-04-27",
+        "ticker": "XPLG11.SA",
+        "preco": 100.0,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-04-28",
+        "ticker": "FLRY3.SA",
+        "preco": 101.61,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-04-28",
+        "ticker": "HGLG11.SA",
+        "preco": 100.0,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-04-28",
+        "ticker": "JBSS3.SA",
+        "preco": 105.17,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-04-28",
+        "ticker": "LREN3.SA",
+        "preco": 105.53,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-04-28",
+        "ticker": "MGLU3.SA",
+        "preco": 104.37,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-04-28",
+        "ticker": "MRFG3.SA",
+        "preco": 103.33,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-04-28",
+        "ticker": "RDOR3.SA",
+        "preco": 101.64,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-04-28",
+        "ticker": "TAEE3.SA",
+        "preco": 102.99,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-04-28",
+        "ticker": "TRPL3.SA",
+        "preco": 100.1,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-04-28",
+        "ticker": "XPLG11.SA",
+        "preco": 99.7,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-02",
+        "ticker": "FLRY3.SA",
+        "preco": 101.33,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-02",
+        "ticker": "HGLG11.SA",
+        "preco": 100.0,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-02",
+        "ticker": "JBSS3.SA",
+        "preco": 102.17,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-02",
+        "ticker": "LREN3.SA",
+        "preco": 99.4,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-02",
+        "ticker": "MGLU3.SA",
+        "preco": 101.25,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-02",
+        "ticker": "MRFG3.SA",
+        "preco": 101.27,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-02",
+        "ticker": "RDOR3.SA",
+        "preco": 99.29,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-02",
+        "ticker": "TAEE3.SA",
+        "preco": 102.39,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-02",
+        "ticker": "TRPL3.SA",
+        "preco": 98.7,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-02",
+        "ticker": "XPLG11.SA",
+        "preco": 98.98,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-03",
+        "ticker": "FLRY3.SA",
+        "preco": 101.26,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-03",
+        "ticker": "HGLG11.SA",
+        "preco": 100.0,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-03",
+        "ticker": "JBSS3.SA",
+        "preco": 103.58,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-03",
+        "ticker": "LREN3.SA",
+        "preco": 97.07,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-03",
+        "ticker": "MGLU3.SA",
+        "preco": 104.37,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-03",
+        "ticker": "MRFG3.SA",
+        "preco": 103.97,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-03",
+        "ticker": "RDOR3.SA",
+        "preco": 97.87,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-03",
+        "ticker": "TAEE3.SA",
+        "preco": 102.9,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-03",
+        "ticker": "TRPL3.SA",
+        "preco": 99.21,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-03",
+        "ticker": "XPLG11.SA",
+        "preco": 98.7,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-04",
+        "ticker": "FLRY3.SA",
+        "preco": 102.24,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-04",
+        "ticker": "HGLG11.SA",
+        "preco": 100.35,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-04",
+        "ticker": "JBSS3.SA",
+        "preco": 105.46,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-04",
+        "ticker": "LREN3.SA",
+        "preco": 103.0,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-04",
+        "ticker": "MGLU3.SA",
+        "preco": 111.56,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-04",
+        "ticker": "MRFG3.SA",
+        "preco": 105.87,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-04",
+        "ticker": "RDOR3.SA",
+        "preco": 101.33,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-04",
+        "ticker": "TAEE3.SA",
+        "preco": 100.77,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-04",
+        "ticker": "TRPL3.SA",
+        "preco": 99.32,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-04",
+        "ticker": "XPLG11.SA",
+        "preco": 100.54,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-05",
+        "ticker": "FLRY3.SA",
+        "preco": 110.64,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-05",
+        "ticker": "HGLG11.SA",
+        "preco": 100.74,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-05",
+        "ticker": "JBSS3.SA",
+        "preco": 107.4,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-05",
+        "ticker": "LREN3.SA",
+        "preco": 112.59,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-05",
+        "ticker": "MGLU3.SA",
+        "preco": 119.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-05",
+        "ticker": "MRFG3.SA",
+        "preco": 106.83,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-05",
+        "ticker": "RDOR3.SA",
+        "preco": 105.82,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-05",
+        "ticker": "TAEE3.SA",
+        "preco": 102.39,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-05",
+        "ticker": "TRPL3.SA",
+        "preco": 98.8,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-05",
+        "ticker": "XPLG11.SA",
+        "preco": 100.04,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-08",
+        "ticker": "FLRY3.SA",
+        "preco": 110.99,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-08",
+        "ticker": "HGLG11.SA",
+        "preco": 100.62,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-08",
+        "ticker": "JBSS3.SA",
+        "preco": 104.58,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-08",
+        "ticker": "LREN3.SA",
+        "preco": 111.93,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-08",
+        "ticker": "MGLU3.SA",
+        "preco": 120.94,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-08",
+        "ticker": "MRFG3.SA",
+        "preco": 106.19,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-08",
+        "ticker": "RDOR3.SA",
+        "preco": 105.38,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-08",
+        "ticker": "TAEE3.SA",
+        "preco": 102.05,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-08",
+        "ticker": "TRPL3.SA",
+        "preco": 99.73,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-08",
+        "ticker": "XPLG11.SA",
+        "preco": 100.03,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-09",
+        "ticker": "FLRY3.SA",
+        "preco": 113.58,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-09",
+        "ticker": "HGLG11.SA",
+        "preco": 100.3,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-09",
+        "ticker": "JBSS3.SA",
+        "preco": 104.52,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-09",
+        "ticker": "LREN3.SA",
+        "preco": 116.59,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-09",
+        "ticker": "MGLU3.SA",
+        "preco": 129.37,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-09",
+        "ticker": "MRFG3.SA",
+        "preco": 106.03,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-09",
+        "ticker": "RDOR3.SA",
+        "preco": 108.8,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-09",
+        "ticker": "TAEE3.SA",
+        "preco": 103.07,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-09",
+        "ticker": "TRPL3.SA",
+        "preco": 99.35,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-09",
+        "ticker": "XPLG11.SA",
+        "preco": 101.2,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-10",
+        "ticker": "FLRY3.SA",
+        "preco": 114.42,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-10",
+        "ticker": "HGLG11.SA",
+        "preco": 100.31,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-10",
+        "ticker": "JBSS3.SA",
+        "preco": 101.65,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-10",
+        "ticker": "LREN3.SA",
+        "preco": 116.59,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-10",
+        "ticker": "MGLU3.SA",
+        "preco": 134.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-10",
+        "ticker": "MRFG3.SA",
+        "preco": 106.35,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-10",
+        "ticker": "RDOR3.SA",
+        "preco": 108.67,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-10",
+        "ticker": "TAEE3.SA",
+        "preco": 104.1,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-10",
+        "ticker": "TRPL3.SA",
+        "preco": 100.27,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-10",
+        "ticker": "XPLG11.SA",
+        "preco": 101.69,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-11",
+        "ticker": "FLRY3.SA",
+        "preco": 115.19,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-11",
+        "ticker": "HGLG11.SA",
+        "preco": 100.14,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-11",
+        "ticker": "JBSS3.SA",
+        "preco": 101.65,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-11",
+        "ticker": "LREN3.SA",
+        "preco": 112.72,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-11",
+        "ticker": "MGLU3.SA",
+        "preco": 135.94,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-11",
+        "ticker": "MRFG3.SA",
+        "preco": 106.67,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-11",
+        "ticker": "RDOR3.SA",
+        "preco": 112.09,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-11",
+        "ticker": "TAEE3.SA",
+        "preco": 105.03,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-11",
+        "ticker": "TRPL3.SA",
+        "preco": 100.85,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-11",
+        "ticker": "XPLG11.SA",
+        "preco": 102.36,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-12",
+        "ticker": "FLRY3.SA",
+        "preco": 116.38,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-12",
+        "ticker": "HGLG11.SA",
+        "preco": 99.98,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-12",
+        "ticker": "JBSS3.SA",
+        "preco": 94.83,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-12",
+        "ticker": "LREN3.SA",
+        "preco": 112.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-12",
+        "ticker": "MGLU3.SA",
+        "preco": 134.69,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-12",
+        "ticker": "MRFG3.SA",
+        "preco": 104.13,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-12",
+        "ticker": "RDOR3.SA",
+        "preco": 113.16,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-12",
+        "ticker": "TAEE3.SA",
+        "preco": 105.46,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-12",
+        "ticker": "TRPL3.SA",
+        "preco": 100.85,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-12",
+        "ticker": "XPLG11.SA",
+        "preco": 103.29,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-15",
+        "ticker": "FLRY3.SA",
+        "preco": 116.03,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-15",
+        "ticker": "HGLG11.SA",
+        "preco": 99.64,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-15",
+        "ticker": "JBSS3.SA",
+        "preco": 95.01,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-15",
+        "ticker": "LREN3.SA",
+        "preco": 115.52,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-15",
+        "ticker": "MGLU3.SA",
+        "preco": 136.88,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-15",
+        "ticker": "MRFG3.SA",
+        "preco": 104.92,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-15",
+        "ticker": "RDOR3.SA",
+        "preco": 115.78,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-15",
+        "ticker": "TAEE3.SA",
+        "preco": 105.29,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-15",
+        "ticker": "TRPL3.SA",
+        "preco": 102.53,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-15",
+        "ticker": "XPLG11.SA",
+        "preco": 104.58,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-16",
+        "ticker": "FLRY3.SA",
+        "preco": 113.44,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-16",
+        "ticker": "HGLG11.SA",
+        "preco": 98.99,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-16",
+        "ticker": "JBSS3.SA",
+        "preco": 95.3,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-16",
+        "ticker": "LREN3.SA",
+        "preco": 113.12,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-16",
+        "ticker": "MGLU3.SA",
+        "preco": 105.63,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-16",
+        "ticker": "MRFG3.SA",
+        "preco": 98.73,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-16",
+        "ticker": "RDOR3.SA",
+        "preco": 123.56,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-16",
+        "ticker": "TAEE3.SA",
+        "preco": 105.29,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-16",
+        "ticker": "TRPL3.SA",
+        "preco": 102.5,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-16",
+        "ticker": "XPLG11.SA",
+        "preco": 104.88,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-17",
+        "ticker": "FLRY3.SA",
+        "preco": 113.37,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-17",
+        "ticker": "HGLG11.SA",
+        "preco": 99.05,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-17",
+        "ticker": "JBSS3.SA",
+        "preco": 95.18,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-17",
+        "ticker": "LREN3.SA",
+        "preco": 124.05,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-17",
+        "ticker": "MGLU3.SA",
+        "preco": 105.0,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-17",
+        "ticker": "MRFG3.SA",
+        "preco": 99.84,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-17",
+        "ticker": "RDOR3.SA",
+        "preco": 124.89,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-17",
+        "ticker": "TAEE3.SA",
+        "preco": 105.2,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-17",
+        "ticker": "TRPL3.SA",
+        "preco": 100.58,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-17",
+        "ticker": "XPLG11.SA",
+        "preco": 104.89,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-18",
+        "ticker": "FLRY3.SA",
+        "preco": 116.17,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-18",
+        "ticker": "HGLG11.SA",
+        "preco": 98.81,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-18",
+        "ticker": "JBSS3.SA",
+        "preco": 96.36,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-18",
+        "ticker": "LREN3.SA",
+        "preco": 125.58,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-18",
+        "ticker": "MGLU3.SA",
+        "preco": 110.62,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-18",
+        "ticker": "MRFG3.SA",
+        "preco": 104.13,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-18",
+        "ticker": "RDOR3.SA",
+        "preco": 128.8,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-18",
+        "ticker": "TAEE3.SA",
+        "preco": 105.55,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-18",
+        "ticker": "TRPL3.SA",
+        "preco": 101.91,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-18",
+        "ticker": "XPLG11.SA",
+        "preco": 105.16,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-19",
+        "ticker": "FLRY3.SA",
+        "preco": 117.49,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-19",
+        "ticker": "HGLG11.SA",
+        "preco": 98.56,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-19",
+        "ticker": "JBSS3.SA",
+        "preco": 99.88,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-19",
+        "ticker": "LREN3.SA",
+        "preco": 129.31,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-19",
+        "ticker": "MGLU3.SA",
+        "preco": 113.75,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-19",
+        "ticker": "MRFG3.SA",
+        "preco": 109.68,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-19",
+        "ticker": "RDOR3.SA",
+        "preco": 128.44,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-19",
+        "ticker": "TAEE3.SA",
+        "preco": 106.06,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-19",
+        "ticker": "TRPL3.SA",
+        "preco": 101.54,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-19",
+        "ticker": "XPLG11.SA",
+        "preco": 104.98,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-22",
+        "ticker": "FLRY3.SA",
+        "preco": 117.84,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-22",
+        "ticker": "HGLG11.SA",
+        "preco": 99.01,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-22",
+        "ticker": "JBSS3.SA",
+        "preco": 100.71,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-22",
+        "ticker": "LREN3.SA",
+        "preco": 126.12,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-22",
+        "ticker": "MGLU3.SA",
+        "preco": 118.75,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-22",
+        "ticker": "MRFG3.SA",
+        "preco": 110.32,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-22",
+        "ticker": "RDOR3.SA",
+        "preco": 129.78,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-22",
+        "ticker": "TAEE3.SA",
+        "preco": 105.38,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-22",
+        "ticker": "TRPL3.SA",
+        "preco": 101.98,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-22",
+        "ticker": "XPLG11.SA",
+        "preco": 105.65,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-23",
+        "ticker": "FLRY3.SA",
+        "preco": 114.49,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-23",
+        "ticker": "HGLG11.SA",
+        "preco": 98.22,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-23",
+        "ticker": "JBSS3.SA",
+        "preco": 99.76,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-23",
+        "ticker": "LREN3.SA",
+        "preco": 124.05,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-23",
+        "ticker": "MGLU3.SA",
+        "preco": 114.38,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-23",
+        "ticker": "MRFG3.SA",
+        "preco": 104.6,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-23",
+        "ticker": "RDOR3.SA",
+        "preco": 129.56,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-23",
+        "ticker": "TAEE3.SA",
+        "preco": 105.46,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-23",
+        "ticker": "TRPL3.SA",
+        "preco": 101.2,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-23",
+        "ticker": "XPLG11.SA",
+        "preco": 106.05,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-24",
+        "ticker": "FLRY3.SA",
+        "preco": 114.63,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-24",
+        "ticker": "HGLG11.SA",
+        "preco": 97.73,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-24",
+        "ticker": "JBSS3.SA",
+        "preco": 94.89,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-24",
+        "ticker": "LREN3.SA",
+        "preco": 122.52,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-24",
+        "ticker": "MGLU3.SA",
+        "preco": 113.44,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-24",
+        "ticker": "MRFG3.SA",
+        "preco": 102.06,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-24",
+        "ticker": "RDOR3.SA",
+        "preco": 127.11,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-24",
+        "ticker": "TAEE3.SA",
+        "preco": 105.89,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-24",
+        "ticker": "TRPL3.SA",
+        "preco": 102.43,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-24",
+        "ticker": "XPLG11.SA",
+        "preco": 105.7,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-25",
+        "ticker": "FLRY3.SA",
+        "preco": 116.79,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-25",
+        "ticker": "HGLG11.SA",
+        "preco": 98.28,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-25",
+        "ticker": "JBSS3.SA",
+        "preco": 96.53,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-25",
+        "ticker": "LREN3.SA",
+        "preco": 129.91,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-25",
+        "ticker": "MGLU3.SA",
+        "preco": 117.5,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-25",
+        "ticker": "MRFG3.SA",
+        "preco": 102.06,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-25",
+        "ticker": "RDOR3.SA",
+        "preco": 131.82,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-25",
+        "ticker": "TAEE3.SA",
+        "preco": 105.97,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-25",
+        "ticker": "TRPL3.SA",
+        "preco": 102.46,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-25",
+        "ticker": "XPLG11.SA",
+        "preco": 105.67,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-26",
+        "ticker": "FLRY3.SA",
+        "preco": 115.33,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-26",
+        "ticker": "HGLG11.SA",
+        "preco": 98.15,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-26",
+        "ticker": "JBSS3.SA",
+        "preco": 96.36,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-26",
+        "ticker": "LREN3.SA",
+        "preco": 133.51,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-26",
+        "ticker": "MGLU3.SA",
+        "preco": 119.37,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-26",
+        "ticker": "MRFG3.SA",
+        "preco": 101.9,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-26",
+        "ticker": "RDOR3.SA",
+        "preco": 131.82,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-26",
+        "ticker": "TAEE3.SA",
+        "preco": 106.48,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-26",
+        "ticker": "TRPL3.SA",
+        "preco": 102.56,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-26",
+        "ticker": "XPLG11.SA",
+        "preco": 105.92,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-29",
+        "ticker": "FLRY3.SA",
+        "preco": 112.67,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-29",
+        "ticker": "HGLG11.SA",
+        "preco": 98.06,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-29",
+        "ticker": "JBSS3.SA",
+        "preco": 96.42,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-29",
+        "ticker": "LREN3.SA",
+        "preco": 131.18,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-29",
+        "ticker": "MGLU3.SA",
+        "preco": 118.44,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-29",
+        "ticker": "MRFG3.SA",
+        "preco": 101.43,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-29",
+        "ticker": "RDOR3.SA",
+        "preco": 130.89,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-29",
+        "ticker": "TAEE3.SA",
+        "preco": 107.42,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-29",
+        "ticker": "TRPL3.SA",
+        "preco": 103.04,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-29",
+        "ticker": "XPLG11.SA",
+        "preco": 104.69,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-30",
+        "ticker": "FLRY3.SA",
+        "preco": 111.55,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-30",
+        "ticker": "HGLG11.SA",
+        "preco": 97.9,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-30",
+        "ticker": "JBSS3.SA",
+        "preco": 96.42,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-30",
+        "ticker": "LREN3.SA",
+        "preco": 128.71,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-30",
+        "ticker": "MGLU3.SA",
+        "preco": 116.56,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-30",
+        "ticker": "MRFG3.SA",
+        "preco": 99.21,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-30",
+        "ticker": "RDOR3.SA",
+        "preco": 128.84,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-30",
+        "ticker": "TAEE3.SA",
+        "preco": 106.66,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-30",
+        "ticker": "TRPL3.SA",
+        "preco": 102.8,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-30",
+        "ticker": "XPLG11.SA",
+        "preco": 105.37,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-31",
+        "ticker": "FLRY3.SA",
+        "preco": 109.1,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-31",
+        "ticker": "HGLG11.SA",
+        "preco": 97.91,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-05-31",
+        "ticker": "JBSS3.SA",
+        "preco": 98.71,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-31",
+        "ticker": "LREN3.SA",
+        "preco": 129.58,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-31",
+        "ticker": "MGLU3.SA",
+        "preco": 118.75,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-05-31",
+        "ticker": "MRFG3.SA",
+        "preco": 105.4,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-05-31",
+        "ticker": "RDOR3.SA",
+        "preco": 128.89,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-05-31",
+        "ticker": "TAEE3.SA",
+        "preco": 105.8,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-31",
+        "ticker": "TRPL3.SA",
+        "preco": 102.26,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-05-31",
+        "ticker": "XPLG11.SA",
+        "preco": 105.58,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-01",
+        "ticker": "FLRY3.SA",
+        "preco": 110.92,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-01",
+        "ticker": "HGLG11.SA",
+        "preco": 99.08,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-01",
+        "ticker": "JBSS3.SA",
+        "preco": 96.42,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-01",
+        "ticker": "LREN3.SA",
+        "preco": 136.98,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-01",
+        "ticker": "MGLU3.SA",
+        "preco": 126.87,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-01",
+        "ticker": "MRFG3.SA",
+        "preco": 105.56,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-01",
+        "ticker": "RDOR3.SA",
+        "preco": 134.36,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-01",
+        "ticker": "TAEE3.SA",
+        "preco": 105.55,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-01",
+        "ticker": "TRPL3.SA",
+        "preco": 102.5,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-01",
+        "ticker": "XPLG11.SA",
+        "preco": 105.59,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-02",
+        "ticker": "FLRY3.SA",
+        "preco": 109.87,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-02",
+        "ticker": "HGLG11.SA",
+        "preco": 99.02,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-02",
+        "ticker": "JBSS3.SA",
+        "preco": 98.53,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-02",
+        "ticker": "LREN3.SA",
+        "preco": 136.38,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-02",
+        "ticker": "MGLU3.SA",
+        "preco": 126.87,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-02",
+        "ticker": "MRFG3.SA",
+        "preco": 106.19,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-02",
+        "ticker": "RDOR3.SA",
+        "preco": 136.89,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-02",
+        "ticker": "TAEE3.SA",
+        "preco": 104.69,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-02",
+        "ticker": "TRPL3.SA",
+        "preco": 102.56,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-02",
+        "ticker": "XPLG11.SA",
+        "preco": 106.25,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-05",
+        "ticker": "FLRY3.SA",
+        "preco": 107.84,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-05",
+        "ticker": "HGLG11.SA",
+        "preco": 97.72,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-05",
+        "ticker": "JBSS3.SA",
+        "preco": 99.18,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-05",
+        "ticker": "LREN3.SA",
+        "preco": 136.71,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-05",
+        "ticker": "MGLU3.SA",
+        "preco": 121.56,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-05",
+        "ticker": "MRFG3.SA",
+        "preco": 107.78,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-05",
+        "ticker": "RDOR3.SA",
+        "preco": 138.22,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-05",
+        "ticker": "TAEE3.SA",
+        "preco": 104.27,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-05",
+        "ticker": "TRPL3.SA",
+        "preco": 102.56,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-05",
+        "ticker": "XPLG11.SA",
+        "preco": 108.9,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-06",
+        "ticker": "FLRY3.SA",
+        "preco": 108.82,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-06",
+        "ticker": "HGLG11.SA",
+        "preco": 97.37,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-06",
+        "ticker": "JBSS3.SA",
+        "preco": 103.53,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-06",
+        "ticker": "LREN3.SA",
+        "preco": 140.71,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-06",
+        "ticker": "MGLU3.SA",
+        "preco": 124.69,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-06",
+        "ticker": "MRFG3.SA",
+        "preco": 112.38,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-06",
+        "ticker": "RDOR3.SA",
+        "preco": 140.53,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-06",
+        "ticker": "TAEE3.SA",
+        "preco": 106.14,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-06",
+        "ticker": "TRPL3.SA",
+        "preco": 102.32,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-06",
+        "ticker": "XPLG11.SA",
+        "preco": 109.0,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-07",
+        "ticker": "FLRY3.SA",
+        "preco": 111.48,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-07",
+        "ticker": "HGLG11.SA",
+        "preco": 97.38,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-07",
+        "ticker": "JBSS3.SA",
+        "preco": 103.76,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-07",
+        "ticker": "LREN3.SA",
+        "preco": 144.24,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-07",
+        "ticker": "MGLU3.SA",
+        "preco": 121.25,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-07",
+        "ticker": "MRFG3.SA",
+        "preco": 111.11,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-07",
+        "ticker": "RDOR3.SA",
+        "preco": 143.87,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-07",
+        "ticker": "TAEE3.SA",
+        "preco": 106.57,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-07",
+        "ticker": "TRPL3.SA",
+        "preco": 101.98,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-07",
+        "ticker": "XPLG11.SA",
+        "preco": 108.62,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-09",
+        "ticker": "FLRY3.SA",
+        "preco": 111.2,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-09",
+        "ticker": "HGLG11.SA",
+        "preco": 97.85,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-09",
+        "ticker": "JBSS3.SA",
+        "preco": 104.23,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-09",
+        "ticker": "LREN3.SA",
+        "preco": 145.44,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-09",
+        "ticker": "MGLU3.SA",
+        "preco": 124.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-09",
+        "ticker": "MRFG3.SA",
+        "preco": 113.33,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-09",
+        "ticker": "RDOR3.SA",
+        "preco": 143.29,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-09",
+        "ticker": "TAEE3.SA",
+        "preco": 107.51,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-09",
+        "ticker": "TRPL3.SA",
+        "preco": 103.04,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-09",
+        "ticker": "XPLG11.SA",
+        "preco": 108.66,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-12",
+        "ticker": "FLRY3.SA",
+        "preco": 114.21,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-12",
+        "ticker": "HGLG11.SA",
+        "preco": 98.46,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-12",
+        "ticker": "JBSS3.SA",
+        "preco": 105.76,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-12",
+        "ticker": "LREN3.SA",
+        "preco": 152.03,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-12",
+        "ticker": "MGLU3.SA",
+        "preco": 123.75,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-12",
+        "ticker": "MRFG3.SA",
+        "preco": 115.24,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-12",
+        "ticker": "RDOR3.SA",
+        "preco": 145.33,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-12",
+        "ticker": "TAEE3.SA",
+        "preco": 107.68,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-12",
+        "ticker": "TRPL3.SA",
+        "preco": 102.94,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-12",
+        "ticker": "XPLG11.SA",
+        "preco": 108.75,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-13",
+        "ticker": "FLRY3.SA",
+        "preco": 110.58,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-13",
+        "ticker": "HGLG11.SA",
+        "preco": 98.46,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-13",
+        "ticker": "JBSS3.SA",
+        "preco": 106.29,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-13",
+        "ticker": "LREN3.SA",
+        "preco": 143.24,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-13",
+        "ticker": "MGLU3.SA",
+        "preco": 117.5,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-13",
+        "ticker": "MRFG3.SA",
+        "preco": 116.67,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-13",
+        "ticker": "RDOR3.SA",
+        "preco": 143.38,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-13",
+        "ticker": "TAEE3.SA",
+        "preco": 106.4,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-13",
+        "ticker": "TRPL3.SA",
+        "preco": 102.56,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-13",
+        "ticker": "XPLG11.SA",
+        "preco": 108.8,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-14",
+        "ticker": "FLRY3.SA",
+        "preco": 116.98,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-14",
+        "ticker": "HGLG11.SA",
+        "preco": 98.77,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-14",
+        "ticker": "JBSS3.SA",
+        "preco": 106.23,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-14",
+        "ticker": "LREN3.SA",
+        "preco": 143.17,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-14",
+        "ticker": "MGLU3.SA",
+        "preco": 119.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-14",
+        "ticker": "MRFG3.SA",
+        "preco": 117.3,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-14",
+        "ticker": "RDOR3.SA",
+        "preco": 148.18,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-14",
+        "ticker": "TAEE3.SA",
+        "preco": 108.28,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-14",
+        "ticker": "TRPL3.SA",
+        "preco": 103.08,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-14",
+        "ticker": "XPLG11.SA",
+        "preco": 108.9,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-15",
+        "ticker": "FLRY3.SA",
+        "preco": 117.49,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-15",
+        "ticker": "HGLG11.SA",
+        "preco": 99.69,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-15",
+        "ticker": "JBSS3.SA",
+        "preco": 107.05,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-15",
+        "ticker": "LREN3.SA",
+        "preco": 140.37,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-15",
+        "ticker": "MGLU3.SA",
+        "preco": 117.19,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-15",
+        "ticker": "MRFG3.SA",
+        "preco": 119.68,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-15",
+        "ticker": "RDOR3.SA",
+        "preco": 148.18,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-15",
+        "ticker": "TAEE3.SA",
+        "preco": 107.68,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-15",
+        "ticker": "TRPL3.SA",
+        "preco": 103.18,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-15",
+        "ticker": "XPLG11.SA",
+        "preco": 109.17,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-16",
+        "ticker": "FLRY3.SA",
+        "preco": 114.99,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-16",
+        "ticker": "HGLG11.SA",
+        "preco": 99.69,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-16",
+        "ticker": "JBSS3.SA",
+        "preco": 105.05,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-16",
+        "ticker": "LREN3.SA",
+        "preco": 135.44,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-16",
+        "ticker": "MGLU3.SA",
+        "preco": 115.94,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-16",
+        "ticker": "MRFG3.SA",
+        "preco": 114.76,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-16",
+        "ticker": "RDOR3.SA",
+        "preco": 147.69,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-16",
+        "ticker": "TAEE3.SA",
+        "preco": 106.31,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-16",
+        "ticker": "TRPL3.SA",
+        "preco": 104.24,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-16",
+        "ticker": "XPLG11.SA",
+        "preco": 110.66,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-19",
+        "ticker": "FLRY3.SA",
+        "preco": 114.48,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-19",
+        "ticker": "HGLG11.SA",
+        "preco": 101.15,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-19",
+        "ticker": "JBSS3.SA",
+        "preco": 109.11,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-19",
+        "ticker": "LREN3.SA",
+        "preco": 138.44,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-19",
+        "ticker": "MGLU3.SA",
+        "preco": 116.56,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-19",
+        "ticker": "MRFG3.SA",
+        "preco": 118.73,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-19",
+        "ticker": "RDOR3.SA",
+        "preco": 148.67,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-19",
+        "ticker": "TAEE3.SA",
+        "preco": 107.17,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-19",
+        "ticker": "TRPL3.SA",
+        "preco": 104.92,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-19",
+        "ticker": "XPLG11.SA",
+        "preco": 110.67,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-20",
+        "ticker": "FLRY3.SA",
+        "preco": 115.51,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-20",
+        "ticker": "HGLG11.SA",
+        "preco": 101.37,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-20",
+        "ticker": "JBSS3.SA",
+        "preco": 113.63,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-20",
+        "ticker": "LREN3.SA",
+        "preco": 143.77,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-20",
+        "ticker": "MGLU3.SA",
+        "preco": 115.0,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-20",
+        "ticker": "MRFG3.SA",
+        "preco": 122.86,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-20",
+        "ticker": "RDOR3.SA",
+        "preco": 146.44,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-20",
+        "ticker": "TAEE3.SA",
+        "preco": 107.59,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-20",
+        "ticker": "TRPL3.SA",
+        "preco": 102.87,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-20",
+        "ticker": "XPLG11.SA",
+        "preco": 110.67,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-21",
+        "ticker": "FLRY3.SA",
+        "preco": 115.51,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-21",
+        "ticker": "HGLG11.SA",
+        "preco": 102.04,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-21",
+        "ticker": "JBSS3.SA",
+        "preco": 110.99,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-21",
+        "ticker": "LREN3.SA",
+        "preco": 144.97,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-21",
+        "ticker": "MGLU3.SA",
+        "preco": 117.5,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-21",
+        "ticker": "MRFG3.SA",
+        "preco": 121.27,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-21",
+        "ticker": "RDOR3.SA",
+        "preco": 147.51,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-21",
+        "ticker": "TAEE3.SA",
+        "preco": 107.42,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-21",
+        "ticker": "TRPL3.SA",
+        "preco": 103.69,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-21",
+        "ticker": "XPLG11.SA",
+        "preco": 111.07,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-22",
+        "ticker": "FLRY3.SA",
+        "preco": 115.36,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-22",
+        "ticker": "HGLG11.SA",
+        "preco": 101.54,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-22",
+        "ticker": "JBSS3.SA",
+        "preco": 110.34,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-22",
+        "ticker": "LREN3.SA",
+        "preco": 142.57,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-22",
+        "ticker": "MGLU3.SA",
+        "preco": 111.56,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-22",
+        "ticker": "MRFG3.SA",
+        "preco": 120.0,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-22",
+        "ticker": "RDOR3.SA",
+        "preco": 146.36,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-22",
+        "ticker": "TAEE3.SA",
+        "preco": 106.91,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-22",
+        "ticker": "TRPL3.SA",
+        "preco": 103.9,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-22",
+        "ticker": "XPLG11.SA",
+        "preco": 111.67,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-23",
+        "ticker": "FLRY3.SA",
+        "preco": 118.52,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-23",
+        "ticker": "HGLG11.SA",
+        "preco": 101.83,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-23",
+        "ticker": "JBSS3.SA",
+        "preco": 100.94,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-23",
+        "ticker": "LREN3.SA",
+        "preco": 148.63,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-23",
+        "ticker": "MGLU3.SA",
+        "preco": 111.87,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-23",
+        "ticker": "MRFG3.SA",
+        "preco": 118.25,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-23",
+        "ticker": "RDOR3.SA",
+        "preco": 148.31,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-23",
+        "ticker": "TAEE3.SA",
+        "preco": 108.02,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-23",
+        "ticker": "TRPL3.SA",
+        "preco": 103.59,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-23",
+        "ticker": "XPLG11.SA",
+        "preco": 111.78,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-26",
+        "ticker": "FLRY3.SA",
+        "preco": 115.87,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-26",
+        "ticker": "HGLG11.SA",
+        "preco": 101.97,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-26",
+        "ticker": "JBSS3.SA",
+        "preco": 97.83,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-26",
+        "ticker": "LREN3.SA",
+        "preco": 144.17,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-26",
+        "ticker": "MGLU3.SA",
+        "preco": 106.25,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-26",
+        "ticker": "MRFG3.SA",
+        "preco": 114.92,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-26",
+        "ticker": "RDOR3.SA",
+        "preco": 146.8,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-26",
+        "ticker": "TAEE3.SA",
+        "preco": 107.68,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-26",
+        "ticker": "TRPL3.SA",
+        "preco": 105.44,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-26",
+        "ticker": "XPLG11.SA",
+        "preco": 111.78,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-27",
+        "ticker": "FLRY3.SA",
+        "preco": 114.63,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-27",
+        "ticker": "HGLG11.SA",
+        "preco": 102.15,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-27",
+        "ticker": "JBSS3.SA",
+        "preco": 100.24,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-27",
+        "ticker": "LREN3.SA",
+        "preco": 140.51,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-27",
+        "ticker": "MGLU3.SA",
+        "preco": 105.63,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-27",
+        "ticker": "MRFG3.SA",
+        "preco": 114.13,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-27",
+        "ticker": "RDOR3.SA",
+        "preco": 143.73,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-27",
+        "ticker": "TAEE3.SA",
+        "preco": 106.4,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-27",
+        "ticker": "TRPL3.SA",
+        "preco": 105.13,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-27",
+        "ticker": "XPLG11.SA",
+        "preco": 112.46,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-28",
+        "ticker": "FLRY3.SA",
+        "preco": 114.55,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-28",
+        "ticker": "HGLG11.SA",
+        "preco": 102.09,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-28",
+        "ticker": "JBSS3.SA",
+        "preco": 96.0,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-28",
+        "ticker": "LREN3.SA",
+        "preco": 139.44,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-28",
+        "ticker": "MGLU3.SA",
+        "preco": 104.69,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-28",
+        "ticker": "MRFG3.SA",
+        "preco": 110.48,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-28",
+        "ticker": "RDOR3.SA",
+        "preco": 142.22,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-28",
+        "ticker": "TAEE3.SA",
+        "preco": 106.14,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-28",
+        "ticker": "TRPL3.SA",
+        "preco": 105.5,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-28",
+        "ticker": "XPLG11.SA",
+        "preco": 112.72,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-29",
+        "ticker": "FLRY3.SA",
+        "preco": 116.76,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-29",
+        "ticker": "HGLG11.SA",
+        "preco": 102.12,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-29",
+        "ticker": "JBSS3.SA",
+        "preco": 102.41,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-29",
+        "ticker": "LREN3.SA",
+        "preco": 142.5,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-29",
+        "ticker": "MGLU3.SA",
+        "preco": 107.81,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-29",
+        "ticker": "MRFG3.SA",
+        "preco": 113.33,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-29",
+        "ticker": "RDOR3.SA",
+        "preco": 144.22,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-29",
+        "ticker": "TAEE3.SA",
+        "preco": 106.06,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-29",
+        "ticker": "TRPL3.SA",
+        "preco": 108.07,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-29",
+        "ticker": "XPLG11.SA",
+        "preco": 113.06,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-30",
+        "ticker": "FLRY3.SA",
+        "preco": 117.93,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-30",
+        "ticker": "HGLG11.SA",
+        "preco": 102.91,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-06-30",
+        "ticker": "JBSS3.SA",
+        "preco": 102.59,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-30",
+        "ticker": "LREN3.SA",
+        "preco": 133.24,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-30",
+        "ticker": "MGLU3.SA",
+        "preco": 105.31,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-06-30",
+        "ticker": "MRFG3.SA",
+        "preco": 115.4,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-06-30",
+        "ticker": "RDOR3.SA",
+        "preco": 146.31,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-06-30",
+        "ticker": "TAEE3.SA",
+        "preco": 107.42,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-30",
+        "ticker": "TRPL3.SA",
+        "preco": 109.74,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-06-30",
+        "ticker": "XPLG11.SA",
+        "preco": 113.85,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-03",
+        "ticker": "FLRY3.SA",
+        "preco": 119.77,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-03",
+        "ticker": "HGLG11.SA",
+        "preco": 101.23,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-03",
+        "ticker": "JBSS3.SA",
+        "preco": 103.47,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-03",
+        "ticker": "LREN3.SA",
+        "preco": 135.18,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-03",
+        "ticker": "MGLU3.SA",
+        "preco": 107.5,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-03",
+        "ticker": "MRFG3.SA",
+        "preco": 114.29,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-03",
+        "ticker": "RDOR3.SA",
+        "preco": 148.8,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-03",
+        "ticker": "TAEE3.SA",
+        "preco": 106.31,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-03",
+        "ticker": "TRPL3.SA",
+        "preco": 106.74,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-03",
+        "ticker": "XPLG11.SA",
+        "preco": 113.11,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-04",
+        "ticker": "FLRY3.SA",
+        "preco": 119.03,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-04",
+        "ticker": "HGLG11.SA",
+        "preco": 101.54,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-04",
+        "ticker": "JBSS3.SA",
+        "preco": 103.06,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-04",
+        "ticker": "LREN3.SA",
+        "preco": 135.11,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-04",
+        "ticker": "MGLU3.SA",
+        "preco": 105.31,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-04",
+        "ticker": "MRFG3.SA",
+        "preco": 113.02,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-04",
+        "ticker": "RDOR3.SA",
+        "preco": 143.33,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-04",
+        "ticker": "TAEE3.SA",
+        "preco": 106.06,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-04",
+        "ticker": "TRPL3.SA",
+        "preco": 108.0,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-04",
+        "ticker": "XPLG11.SA",
+        "preco": 113.39,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-05",
+        "ticker": "FLRY3.SA",
+        "preco": 120.87,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-05",
+        "ticker": "HGLG11.SA",
+        "preco": 101.54,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-05",
+        "ticker": "JBSS3.SA",
+        "preco": 106.82,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-05",
+        "ticker": "LREN3.SA",
+        "preco": 136.24,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-05",
+        "ticker": "MGLU3.SA",
+        "preco": 106.56,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-05",
+        "ticker": "MRFG3.SA",
+        "preco": 118.57,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-05",
+        "ticker": "RDOR3.SA",
+        "preco": 142.8,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-05",
+        "ticker": "TAEE3.SA",
+        "preco": 105.55,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-05",
+        "ticker": "TRPL3.SA",
+        "preco": 111.86,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-05",
+        "ticker": "XPLG11.SA",
+        "preco": 113.33,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-06",
+        "ticker": "FLRY3.SA",
+        "preco": 118.59,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-06",
+        "ticker": "HGLG11.SA",
+        "preco": 101.79,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-06",
+        "ticker": "JBSS3.SA",
+        "preco": 103.64,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-06",
+        "ticker": "LREN3.SA",
+        "preco": 131.91,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-06",
+        "ticker": "MGLU3.SA",
+        "preco": 98.44,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-06",
+        "ticker": "MRFG3.SA",
+        "preco": 115.71,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-06",
+        "ticker": "RDOR3.SA",
+        "preco": 138.67,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-06",
+        "ticker": "TAEE3.SA",
+        "preco": 105.29,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-06",
+        "ticker": "TRPL3.SA",
+        "preco": 113.23,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-06",
+        "ticker": "XPLG11.SA",
+        "preco": 113.43,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-07",
+        "ticker": "FLRY3.SA",
+        "preco": 119.11,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-07",
+        "ticker": "HGLG11.SA",
+        "preco": 102.37,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-07",
+        "ticker": "JBSS3.SA",
+        "preco": 104.29,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-07",
+        "ticker": "LREN3.SA",
+        "preco": 136.04,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-07",
+        "ticker": "MGLU3.SA",
+        "preco": 99.38,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-07",
+        "ticker": "MRFG3.SA",
+        "preco": 118.89,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-07",
+        "ticker": "RDOR3.SA",
+        "preco": 140.62,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-07",
+        "ticker": "TAEE3.SA",
+        "preco": 106.23,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-07",
+        "ticker": "TRPL3.SA",
+        "preco": 114.5,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-07",
+        "ticker": "XPLG11.SA",
+        "preco": 113.86,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-10",
+        "ticker": "FLRY3.SA",
+        "preco": 118.45,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-10",
+        "ticker": "HGLG11.SA",
+        "preco": 102.77,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-10",
+        "ticker": "JBSS3.SA",
+        "preco": 103.23,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-10",
+        "ticker": "LREN3.SA",
+        "preco": 127.25,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-10",
+        "ticker": "MGLU3.SA",
+        "preco": 95.31,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-10",
+        "ticker": "MRFG3.SA",
+        "preco": 119.37,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-10",
+        "ticker": "RDOR3.SA",
+        "preco": 141.02,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-10",
+        "ticker": "TAEE3.SA",
+        "preco": 104.78,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-10",
+        "ticker": "TRPL3.SA",
+        "preco": 111.15,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-10",
+        "ticker": "XPLG11.SA",
+        "preco": 113.42,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-11",
+        "ticker": "FLRY3.SA",
+        "preco": 116.46,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-11",
+        "ticker": "HGLG11.SA",
+        "preco": 103.29,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-11",
+        "ticker": "JBSS3.SA",
+        "preco": 101.29,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-11",
+        "ticker": "LREN3.SA",
+        "preco": 125.65,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-11",
+        "ticker": "MGLU3.SA",
+        "preco": 95.62,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-11",
+        "ticker": "MRFG3.SA",
+        "preco": 117.46,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-11",
+        "ticker": "RDOR3.SA",
+        "preco": 139.24,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-11",
+        "ticker": "TAEE3.SA",
+        "preco": 103.67,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-11",
+        "ticker": "TRPL3.SA",
+        "preco": 111.11,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-11",
+        "ticker": "XPLG11.SA",
+        "preco": 113.75,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-12",
+        "ticker": "FLRY3.SA",
+        "preco": 114.26,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-12",
+        "ticker": "HGLG11.SA",
+        "preco": 102.52,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-12",
+        "ticker": "JBSS3.SA",
+        "preco": 110.46,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-12",
+        "ticker": "LREN3.SA",
+        "preco": 123.72,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-12",
+        "ticker": "MGLU3.SA",
+        "preco": 93.12,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-12",
+        "ticker": "MRFG3.SA",
+        "preco": 119.84,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-12",
+        "ticker": "RDOR3.SA",
+        "preco": 140.13,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-12",
+        "ticker": "TAEE3.SA",
+        "preco": 103.16,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-12",
+        "ticker": "TRPL3.SA",
+        "preco": 112.85,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-12",
+        "ticker": "XPLG11.SA",
+        "preco": 113.56,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-13",
+        "ticker": "FLRY3.SA",
+        "preco": 114.04,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-13",
+        "ticker": "HGLG11.SA",
+        "preco": 102.86,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-13",
+        "ticker": "JBSS3.SA",
+        "preco": 113.51,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-13",
+        "ticker": "LREN3.SA",
+        "preco": 122.92,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-13",
+        "ticker": "MGLU3.SA",
+        "preco": 94.37,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-13",
+        "ticker": "MRFG3.SA",
+        "preco": 119.52,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-13",
+        "ticker": "RDOR3.SA",
+        "preco": 143.56,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-13",
+        "ticker": "TAEE3.SA",
+        "preco": 103.24,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-13",
+        "ticker": "TRPL3.SA",
+        "preco": 112.34,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-13",
+        "ticker": "XPLG11.SA",
+        "preco": 113.56,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-14",
+        "ticker": "FLRY3.SA",
+        "preco": 112.49,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-14",
+        "ticker": "HGLG11.SA",
+        "preco": 101.54,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-14",
+        "ticker": "JBSS3.SA",
+        "preco": 111.69,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-14",
+        "ticker": "LREN3.SA",
+        "preco": 118.79,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-14",
+        "ticker": "MGLU3.SA",
+        "preco": 92.19,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-14",
+        "ticker": "MRFG3.SA",
+        "preco": 117.46,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-14",
+        "ticker": "RDOR3.SA",
+        "preco": 142.04,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-14",
+        "ticker": "TAEE3.SA",
+        "preco": 103.33,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-14",
+        "ticker": "TRPL3.SA",
+        "preco": 112.51,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-14",
+        "ticker": "XPLG11.SA",
+        "preco": 113.7,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-17",
+        "ticker": "FLRY3.SA",
+        "preco": 113.38,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-17",
+        "ticker": "HGLG11.SA",
+        "preco": 100.83,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-17",
+        "ticker": "JBSS3.SA",
+        "preco": 110.11,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-17",
+        "ticker": "LREN3.SA",
+        "preco": 119.65,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-17",
+        "ticker": "MGLU3.SA",
+        "preco": 92.5,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-17",
+        "ticker": "MRFG3.SA",
+        "preco": 116.67,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-17",
+        "ticker": "RDOR3.SA",
+        "preco": 145.78,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-17",
+        "ticker": "TAEE3.SA",
+        "preco": 103.5,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-17",
+        "ticker": "TRPL3.SA",
+        "preco": 111.86,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-17",
+        "ticker": "XPLG11.SA",
+        "preco": 113.69,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-18",
+        "ticker": "FLRY3.SA",
+        "preco": 112.72,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-18",
+        "ticker": "HGLG11.SA",
+        "preco": 99.85,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-18",
+        "ticker": "JBSS3.SA",
+        "preco": 107.05,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-18",
+        "ticker": "LREN3.SA",
+        "preco": 120.25,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-18",
+        "ticker": "MGLU3.SA",
+        "preco": 92.5,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-18",
+        "ticker": "MRFG3.SA",
+        "preco": 114.6,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-18",
+        "ticker": "RDOR3.SA",
+        "preco": 146.53,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-18",
+        "ticker": "TAEE3.SA",
+        "preco": 103.16,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-18",
+        "ticker": "TRPL3.SA",
+        "preco": 112.99,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-18",
+        "ticker": "XPLG11.SA",
+        "preco": 113.69,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-19",
+        "ticker": "FLRY3.SA",
+        "preco": 111.61,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-19",
+        "ticker": "HGLG11.SA",
+        "preco": 99.93,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-19",
+        "ticker": "JBSS3.SA",
+        "preco": 106.99,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-19",
+        "ticker": "LREN3.SA",
+        "preco": 118.45,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-19",
+        "ticker": "MGLU3.SA",
+        "preco": 91.88,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-19",
+        "ticker": "MRFG3.SA",
+        "preco": 114.6,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-19",
+        "ticker": "RDOR3.SA",
+        "preco": 146.44,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-19",
+        "ticker": "TAEE3.SA",
+        "preco": 102.9,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-19",
+        "ticker": "TRPL3.SA",
+        "preco": 115.08,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-19",
+        "ticker": "XPLG11.SA",
+        "preco": 113.63,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-20",
+        "ticker": "FLRY3.SA",
+        "preco": 111.39,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-20",
+        "ticker": "HGLG11.SA",
+        "preco": 99.99,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-20",
+        "ticker": "JBSS3.SA",
+        "preco": 106.05,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-20",
+        "ticker": "LREN3.SA",
+        "preco": 119.12,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-20",
+        "ticker": "MGLU3.SA",
+        "preco": 90.63,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-20",
+        "ticker": "MRFG3.SA",
+        "preco": 113.33,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-20",
+        "ticker": "RDOR3.SA",
+        "preco": 148.27,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-20",
+        "ticker": "TAEE3.SA",
+        "preco": 102.99,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-20",
+        "ticker": "TRPL3.SA",
+        "preco": 114.53,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-20",
+        "ticker": "XPLG11.SA",
+        "preco": 113.67,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-21",
+        "ticker": "FLRY3.SA",
+        "preco": 113.74,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-21",
+        "ticker": "HGLG11.SA",
+        "preco": 100.5,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-21",
+        "ticker": "JBSS3.SA",
+        "preco": 106.35,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-21",
+        "ticker": "LREN3.SA",
+        "preco": 121.92,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-21",
+        "ticker": "MGLU3.SA",
+        "preco": 94.37,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-21",
+        "ticker": "MRFG3.SA",
+        "preco": 114.6,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-21",
+        "ticker": "RDOR3.SA",
+        "preco": 153.42,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-21",
+        "ticker": "TAEE3.SA",
+        "preco": 104.18,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-21",
+        "ticker": "TRPL3.SA",
+        "preco": 116.14,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-21",
+        "ticker": "XPLG11.SA",
+        "preco": 113.84,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-24",
+        "ticker": "FLRY3.SA",
+        "preco": 115.14,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-24",
+        "ticker": "HGLG11.SA",
+        "preco": 101.17,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-24",
+        "ticker": "JBSS3.SA",
+        "preco": 105.11,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-24",
+        "ticker": "LREN3.SA",
+        "preco": 125.65,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-24",
+        "ticker": "MGLU3.SA",
+        "preco": 94.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-24",
+        "ticker": "MRFG3.SA",
+        "preco": 110.16,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-24",
+        "ticker": "RDOR3.SA",
+        "preco": 159.6,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-24",
+        "ticker": "TAEE3.SA",
+        "preco": 103.84,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-24",
+        "ticker": "TRPL3.SA",
+        "preco": 114.56,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-24",
+        "ticker": "XPLG11.SA",
+        "preco": 113.66,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-25",
+        "ticker": "FLRY3.SA",
+        "preco": 116.1,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-25",
+        "ticker": "HGLG11.SA",
+        "preco": 101.32,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-25",
+        "ticker": "JBSS3.SA",
+        "preco": 105.35,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-25",
+        "ticker": "LREN3.SA",
+        "preco": 124.18,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-25",
+        "ticker": "MGLU3.SA",
+        "preco": 95.94,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-25",
+        "ticker": "MRFG3.SA",
+        "preco": 108.41,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-25",
+        "ticker": "RDOR3.SA",
+        "preco": 161.87,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-25",
+        "ticker": "TAEE3.SA",
+        "preco": 103.07,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-25",
+        "ticker": "TRPL3.SA",
+        "preco": 114.6,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-25",
+        "ticker": "XPLG11.SA",
+        "preco": 113.51,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-26",
+        "ticker": "FLRY3.SA",
+        "preco": 117.71,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-26",
+        "ticker": "HGLG11.SA",
+        "preco": 100.62,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-26",
+        "ticker": "JBSS3.SA",
+        "preco": 107.23,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-26",
+        "ticker": "LREN3.SA",
+        "preco": 126.58,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-26",
+        "ticker": "MGLU3.SA",
+        "preco": 96.56,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-26",
+        "ticker": "MRFG3.SA",
+        "preco": 109.68,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-26",
+        "ticker": "RDOR3.SA",
+        "preco": 164.36,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-26",
+        "ticker": "TAEE3.SA",
+        "preco": 103.07,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-26",
+        "ticker": "TRPL3.SA",
+        "preco": 114.6,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-26",
+        "ticker": "XPLG11.SA",
+        "preco": 113.76,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-27",
+        "ticker": "FLRY3.SA",
+        "preco": 116.24,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-27",
+        "ticker": "HGLG11.SA",
+        "preco": 100.71,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-27",
+        "ticker": "JBSS3.SA",
+        "preco": 106.29,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-27",
+        "ticker": "LREN3.SA",
+        "preco": 124.12,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-27",
+        "ticker": "MGLU3.SA",
+        "preco": 99.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-27",
+        "ticker": "MRFG3.SA",
+        "preco": 108.1,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-27",
+        "ticker": "RDOR3.SA",
+        "preco": 162.8,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-27",
+        "ticker": "TAEE3.SA",
+        "preco": 102.47,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-27",
+        "ticker": "TRPL3.SA",
+        "preco": 114.29,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-27",
+        "ticker": "XPLG11.SA",
+        "preco": 114.01,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-28",
+        "ticker": "FLRY3.SA",
+        "preco": 118.08,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-28",
+        "ticker": "HGLG11.SA",
+        "preco": 100.73,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-28",
+        "ticker": "JBSS3.SA",
+        "preco": 108.64,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-28",
+        "ticker": "LREN3.SA",
+        "preco": 124.18,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-28",
+        "ticker": "MGLU3.SA",
+        "preco": 99.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-28",
+        "ticker": "MRFG3.SA",
+        "preco": 112.54,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-28",
+        "ticker": "RDOR3.SA",
+        "preco": 161.78,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-28",
+        "ticker": "TAEE3.SA",
+        "preco": 103.07,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-28",
+        "ticker": "TRPL3.SA",
+        "preco": 112.62,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-28",
+        "ticker": "XPLG11.SA",
+        "preco": 113.99,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-31",
+        "ticker": "FLRY3.SA",
+        "preco": 118.37,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-31",
+        "ticker": "HGLG11.SA",
+        "preco": 100.46,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-07-31",
+        "ticker": "JBSS3.SA",
+        "preco": 110.34,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-31",
+        "ticker": "LREN3.SA",
+        "preco": 124.92,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-31",
+        "ticker": "MGLU3.SA",
+        "preco": 104.69,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-07-31",
+        "ticker": "MRFG3.SA",
+        "preco": 117.78,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-07-31",
+        "ticker": "RDOR3.SA",
+        "preco": 160.0,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-07-31",
+        "ticker": "TAEE3.SA",
+        "preco": 102.99,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-31",
+        "ticker": "TRPL3.SA",
+        "preco": 113.3,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-07-31",
+        "ticker": "XPLG11.SA",
+        "preco": 114.05,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-01",
+        "ticker": "FLRY3.SA",
+        "preco": 116.17,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-01",
+        "ticker": "HGLG11.SA",
+        "preco": 100.28,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-01",
+        "ticker": "JBSS3.SA",
+        "preco": 111.75,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-01",
+        "ticker": "LREN3.SA",
+        "preco": 124.25,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-01",
+        "ticker": "MGLU3.SA",
+        "preco": 107.19,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-01",
+        "ticker": "MRFG3.SA",
+        "preco": 118.25,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-01",
+        "ticker": "RDOR3.SA",
+        "preco": 157.82,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-01",
+        "ticker": "TAEE3.SA",
+        "preco": 102.82,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-01",
+        "ticker": "TRPL3.SA",
+        "preco": 113.03,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-01",
+        "ticker": "XPLG11.SA",
+        "preco": 113.66,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-02",
+        "ticker": "FLRY3.SA",
+        "preco": 116.02,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-02",
+        "ticker": "HGLG11.SA",
+        "preco": 100.37,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-02",
+        "ticker": "JBSS3.SA",
+        "preco": 114.57,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-02",
+        "ticker": "LREN3.SA",
+        "preco": 126.58,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-02",
+        "ticker": "MGLU3.SA",
+        "preco": 104.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-02",
+        "ticker": "MRFG3.SA",
+        "preco": 119.37,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-02",
+        "ticker": "RDOR3.SA",
+        "preco": 156.0,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-02",
+        "ticker": "TAEE3.SA",
+        "preco": 102.99,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-02",
+        "ticker": "TRPL3.SA",
+        "preco": 113.95,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-02",
+        "ticker": "XPLG11.SA",
+        "preco": 113.71,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-03",
+        "ticker": "FLRY3.SA",
+        "preco": 117.56,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-03",
+        "ticker": "HGLG11.SA",
+        "preco": 100.43,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-03",
+        "ticker": "JBSS3.SA",
+        "preco": 115.51,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-03",
+        "ticker": "LREN3.SA",
+        "preco": 123.58,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-03",
+        "ticker": "MGLU3.SA",
+        "preco": 98.75,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-03",
+        "ticker": "MRFG3.SA",
+        "preco": 120.63,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-03",
+        "ticker": "RDOR3.SA",
+        "preco": 153.51,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-03",
+        "ticker": "TAEE3.SA",
+        "preco": 103.92,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-03",
+        "ticker": "TRPL3.SA",
+        "preco": 115.38,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-03",
+        "ticker": "XPLG11.SA",
+        "preco": 113.86,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-04",
+        "ticker": "FLRY3.SA",
+        "preco": 117.12,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-04",
+        "ticker": "HGLG11.SA",
+        "preco": 100.65,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-04",
+        "ticker": "JBSS3.SA",
+        "preco": 116.8,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-04",
+        "ticker": "LREN3.SA",
+        "preco": 130.71,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-04",
+        "ticker": "MGLU3.SA",
+        "preco": 95.62,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-04",
+        "ticker": "MRFG3.SA",
+        "preco": 127.46,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-04",
+        "ticker": "RDOR3.SA",
+        "preco": 155.07,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-04",
+        "ticker": "TAEE3.SA",
+        "preco": 104.35,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-04",
+        "ticker": "TRPL3.SA",
+        "preco": 114.22,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-04",
+        "ticker": "XPLG11.SA",
+        "preco": 114.15,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-07",
+        "ticker": "FLRY3.SA",
+        "preco": 115.29,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-07",
+        "ticker": "HGLG11.SA",
+        "preco": 100.37,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-07",
+        "ticker": "JBSS3.SA",
+        "preco": 114.28,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-07",
+        "ticker": "LREN3.SA",
+        "preco": 126.58,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-07",
+        "ticker": "MGLU3.SA",
+        "preco": 94.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-07",
+        "ticker": "MRFG3.SA",
+        "preco": 128.41,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-07",
+        "ticker": "RDOR3.SA",
+        "preco": 153.91,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-07",
+        "ticker": "TAEE3.SA",
+        "preco": 104.01,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-07",
+        "ticker": "TRPL3.SA",
+        "preco": 113.4,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-07",
+        "ticker": "XPLG11.SA",
+        "preco": 114.14,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-08",
+        "ticker": "FLRY3.SA",
+        "preco": 113.16,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-08",
+        "ticker": "HGLG11.SA",
+        "preco": 100.0,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-08",
+        "ticker": "JBSS3.SA",
+        "preco": 114.39,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-08",
+        "ticker": "LREN3.SA",
+        "preco": 127.58,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-08",
+        "ticker": "MGLU3.SA",
+        "preco": 93.44,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-08",
+        "ticker": "MRFG3.SA",
+        "preco": 126.03,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-08",
+        "ticker": "RDOR3.SA",
+        "preco": 152.0,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-08",
+        "ticker": "TAEE3.SA",
+        "preco": 100.68,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-08",
+        "ticker": "TRPL3.SA",
+        "preco": 113.23,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-08",
+        "ticker": "XPLG11.SA",
+        "preco": 114.45,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-09",
+        "ticker": "FLRY3.SA",
+        "preco": 112.64,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-09",
+        "ticker": "HGLG11.SA",
+        "preco": 99.82,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-09",
+        "ticker": "JBSS3.SA",
+        "preco": 113.16,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-09",
+        "ticker": "LREN3.SA",
+        "preco": 121.92,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-09",
+        "ticker": "MGLU3.SA",
+        "preco": 92.81,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-09",
+        "ticker": "MRFG3.SA",
+        "preco": 123.11,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-09",
+        "ticker": "RDOR3.SA",
+        "preco": 150.84,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-09",
+        "ticker": "TAEE3.SA",
+        "preco": 99.15,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-09",
+        "ticker": "TRPL3.SA",
+        "preco": 113.33,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-09",
+        "ticker": "XPLG11.SA",
+        "preco": 114.6,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-10",
+        "ticker": "FLRY3.SA",
+        "preco": 113.52,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-10",
+        "ticker": "HGLG11.SA",
+        "preco": 99.69,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-10",
+        "ticker": "JBSS3.SA",
+        "preco": 113.87,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-10",
+        "ticker": "LREN3.SA",
+        "preco": 124.72,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-10",
+        "ticker": "MGLU3.SA",
+        "preco": 89.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-10",
+        "ticker": "MRFG3.SA",
+        "preco": 124.37,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-10",
+        "ticker": "RDOR3.SA",
+        "preco": 143.42,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-10",
+        "ticker": "TAEE3.SA",
+        "preco": 99.23,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-10",
+        "ticker": "TRPL3.SA",
+        "preco": 112.65,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-10",
+        "ticker": "XPLG11.SA",
+        "preco": 114.49,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-11",
+        "ticker": "FLRY3.SA",
+        "preco": 112.05,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-11",
+        "ticker": "HGLG11.SA",
+        "preco": 99.75,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-11",
+        "ticker": "JBSS3.SA",
+        "preco": 113.69,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-11",
+        "ticker": "LREN3.SA",
+        "preco": 123.32,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-11",
+        "ticker": "MGLU3.SA",
+        "preco": 90.0,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-11",
+        "ticker": "MRFG3.SA",
+        "preco": 124.69,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-11",
+        "ticker": "RDOR3.SA",
+        "preco": 139.78,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-11",
+        "ticker": "TAEE3.SA",
+        "preco": 98.89,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-11",
+        "ticker": "TRPL3.SA",
+        "preco": 112.82,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-11",
+        "ticker": "XPLG11.SA",
+        "preco": 114.57,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-14",
+        "ticker": "FLRY3.SA",
+        "preco": 110.0,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-14",
+        "ticker": "HGLG11.SA",
+        "preco": 99.69,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-14",
+        "ticker": "JBSS3.SA",
+        "preco": 113.87,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-14",
+        "ticker": "LREN3.SA",
+        "preco": 117.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-14",
+        "ticker": "MGLU3.SA",
+        "preco": 88.75,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-14",
+        "ticker": "MRFG3.SA",
+        "preco": 121.84,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-14",
+        "ticker": "RDOR3.SA",
+        "preco": 137.29,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-14",
+        "ticker": "TAEE3.SA",
+        "preco": 99.15,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-14",
+        "ticker": "TRPL3.SA",
+        "preco": 113.3,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-14",
+        "ticker": "XPLG11.SA",
+        "preco": 114.56,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-15",
+        "ticker": "FLRY3.SA",
+        "preco": 108.97,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-15",
+        "ticker": "HGLG11.SA",
+        "preco": 99.63,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-15",
+        "ticker": "JBSS3.SA",
+        "preco": 115.39,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-15",
+        "ticker": "LREN3.SA",
+        "preco": 116.19,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-15",
+        "ticker": "MGLU3.SA",
+        "preco": 86.56,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-15",
+        "ticker": "MRFG3.SA",
+        "preco": 121.21,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-15",
+        "ticker": "RDOR3.SA",
+        "preco": 136.67,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-15",
+        "ticker": "TAEE3.SA",
+        "preco": 98.46,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-15",
+        "ticker": "TRPL3.SA",
+        "preco": 112.03,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-15",
+        "ticker": "XPLG11.SA",
+        "preco": 114.36,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-16",
+        "ticker": "FLRY3.SA",
+        "preco": 109.34,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-16",
+        "ticker": "HGLG11.SA",
+        "preco": 99.77,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-16",
+        "ticker": "JBSS3.SA",
+        "preco": 113.92,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-16",
+        "ticker": "LREN3.SA",
+        "preco": 116.52,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-16",
+        "ticker": "MGLU3.SA",
+        "preco": 92.81,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-16",
+        "ticker": "MRFG3.SA",
+        "preco": 120.11,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-16",
+        "ticker": "RDOR3.SA",
+        "preco": 133.56,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-16",
+        "ticker": "TAEE3.SA",
+        "preco": 98.12,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-16",
+        "ticker": "TRPL3.SA",
+        "preco": 111.73,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-16",
+        "ticker": "XPLG11.SA",
+        "preco": 114.16,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-17",
+        "ticker": "FLRY3.SA",
+        "preco": 110.95,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-17",
+        "ticker": "HGLG11.SA",
+        "preco": 99.28,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-17",
+        "ticker": "JBSS3.SA",
+        "preco": 114.28,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-17",
+        "ticker": "LREN3.SA",
+        "preco": 113.99,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-17",
+        "ticker": "MGLU3.SA",
+        "preco": 88.12,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-17",
+        "ticker": "MRFG3.SA",
+        "preco": 115.85,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-17",
+        "ticker": "RDOR3.SA",
+        "preco": 134.67,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-17",
+        "ticker": "TAEE3.SA",
+        "preco": 98.46,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-17",
+        "ticker": "TRPL3.SA",
+        "preco": 109.85,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-17",
+        "ticker": "XPLG11.SA",
+        "preco": 113.97,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-18",
+        "ticker": "FLRY3.SA",
+        "preco": 111.54,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-18",
+        "ticker": "HGLG11.SA",
+        "preco": 99.53,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-18",
+        "ticker": "JBSS3.SA",
+        "preco": 112.87,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-18",
+        "ticker": "LREN3.SA",
+        "preco": 115.66,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-18",
+        "ticker": "MGLU3.SA",
+        "preco": 93.75,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-18",
+        "ticker": "MRFG3.SA",
+        "preco": 116.67,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-18",
+        "ticker": "RDOR3.SA",
+        "preco": 132.18,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-18",
+        "ticker": "TAEE3.SA",
+        "preco": 99.15,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-18",
+        "ticker": "TRPL3.SA",
+        "preco": 111.08,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-18",
+        "ticker": "XPLG11.SA",
+        "preco": 113.04,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-21",
+        "ticker": "FLRY3.SA",
+        "preco": 112.49,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-21",
+        "ticker": "HGLG11.SA",
+        "preco": 98.54,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-21",
+        "ticker": "JBSS3.SA",
+        "preco": 109.81,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-21",
+        "ticker": "LREN3.SA",
+        "preco": 113.99,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-21",
+        "ticker": "MGLU3.SA",
+        "preco": 95.31,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-21",
+        "ticker": "MRFG3.SA",
+        "preco": 112.7,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-21",
+        "ticker": "RDOR3.SA",
+        "preco": 133.24,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-21",
+        "ticker": "TAEE3.SA",
+        "preco": 98.38,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-21",
+        "ticker": "TRPL3.SA",
+        "preco": 110.8,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-21",
+        "ticker": "XPLG11.SA",
+        "preco": 112.97,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-22",
+        "ticker": "FLRY3.SA",
+        "preco": 113.74,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-22",
+        "ticker": "HGLG11.SA",
+        "preco": 99.22,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-22",
+        "ticker": "JBSS3.SA",
+        "preco": 108.87,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-22",
+        "ticker": "LREN3.SA",
+        "preco": 114.46,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-22",
+        "ticker": "MGLU3.SA",
+        "preco": 95.0,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-22",
+        "ticker": "MRFG3.SA",
+        "preco": 110.63,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-22",
+        "ticker": "RDOR3.SA",
+        "preco": 132.84,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-22",
+        "ticker": "TAEE3.SA",
+        "preco": 98.38,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-22",
+        "ticker": "TRPL3.SA",
+        "preco": 110.36,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-22",
+        "ticker": "XPLG11.SA",
+        "preco": 111.17,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-23",
+        "ticker": "FLRY3.SA",
+        "preco": 113.6,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-23",
+        "ticker": "HGLG11.SA",
+        "preco": 99.43,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-23",
+        "ticker": "JBSS3.SA",
+        "preco": 109.58,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-23",
+        "ticker": "LREN3.SA",
+        "preco": 115.99,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-23",
+        "ticker": "MGLU3.SA",
+        "preco": 95.62,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-23",
+        "ticker": "MRFG3.SA",
+        "preco": 108.89,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-23",
+        "ticker": "RDOR3.SA",
+        "preco": 133.29,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-23",
+        "ticker": "TAEE3.SA",
+        "preco": 98.29,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-23",
+        "ticker": "TRPL3.SA",
+        "preco": 110.36,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-23",
+        "ticker": "XPLG11.SA",
+        "preco": 111.47,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-24",
+        "ticker": "FLRY3.SA",
+        "preco": 111.91,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-24",
+        "ticker": "HGLG11.SA",
+        "preco": 99.2,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-24",
+        "ticker": "JBSS3.SA",
+        "preco": 109.17,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-24",
+        "ticker": "LREN3.SA",
+        "preco": 112.52,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-24",
+        "ticker": "MGLU3.SA",
+        "preco": 94.37,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-24",
+        "ticker": "MRFG3.SA",
+        "preco": 107.78,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-24",
+        "ticker": "RDOR3.SA",
+        "preco": 131.82,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-24",
+        "ticker": "TAEE3.SA",
+        "preco": 99.15,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-24",
+        "ticker": "TRPL3.SA",
+        "preco": 109.4,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-24",
+        "ticker": "XPLG11.SA",
+        "preco": 111.63,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-25",
+        "ticker": "FLRY3.SA",
+        "preco": 110.29,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-25",
+        "ticker": "HGLG11.SA",
+        "preco": 99.41,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-25",
+        "ticker": "JBSS3.SA",
+        "preco": 108.87,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-25",
+        "ticker": "LREN3.SA",
+        "preco": 110.66,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-25",
+        "ticker": "MGLU3.SA",
+        "preco": 91.25,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-25",
+        "ticker": "MRFG3.SA",
+        "preco": 103.17,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-25",
+        "ticker": "RDOR3.SA",
+        "preco": 129.82,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-25",
+        "ticker": "TAEE3.SA",
+        "preco": 98.98,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-25",
+        "ticker": "TRPL3.SA",
+        "preco": 109.06,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-25",
+        "ticker": "XPLG11.SA",
+        "preco": 112.41,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-28",
+        "ticker": "FLRY3.SA",
+        "preco": 110.22,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-28",
+        "ticker": "HGLG11.SA",
+        "preco": 99.22,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-28",
+        "ticker": "JBSS3.SA",
+        "preco": 110.05,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-28",
+        "ticker": "LREN3.SA",
+        "preco": 111.26,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-28",
+        "ticker": "MGLU3.SA",
+        "preco": 91.56,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-28",
+        "ticker": "MRFG3.SA",
+        "preco": 106.83,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-28",
+        "ticker": "RDOR3.SA",
+        "preco": 129.51,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-28",
+        "ticker": "TAEE3.SA",
+        "preco": 98.81,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-28",
+        "ticker": "TRPL3.SA",
+        "preco": 109.57,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-28",
+        "ticker": "XPLG11.SA",
+        "preco": 112.63,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-29",
+        "ticker": "FLRY3.SA",
+        "preco": 110.95,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-29",
+        "ticker": "HGLG11.SA",
+        "preco": 99.37,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-29",
+        "ticker": "JBSS3.SA",
+        "preco": 111.16,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-29",
+        "ticker": "LREN3.SA",
+        "preco": 111.26,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-29",
+        "ticker": "MGLU3.SA",
+        "preco": 91.56,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-29",
+        "ticker": "MRFG3.SA",
+        "preco": 118.25,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-29",
+        "ticker": "RDOR3.SA",
+        "preco": 131.38,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-29",
+        "ticker": "TAEE3.SA",
+        "preco": 99.32,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-29",
+        "ticker": "TRPL3.SA",
+        "preco": 109.64,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-29",
+        "ticker": "XPLG11.SA",
+        "preco": 111.33,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-30",
+        "ticker": "FLRY3.SA",
+        "preco": 109.92,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-30",
+        "ticker": "HGLG11.SA",
+        "preco": 99.75,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-30",
+        "ticker": "JBSS3.SA",
+        "preco": 110.46,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-30",
+        "ticker": "LREN3.SA",
+        "preco": 109.53,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-30",
+        "ticker": "MGLU3.SA",
+        "preco": 91.25,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-30",
+        "ticker": "MRFG3.SA",
+        "preco": 116.98,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-30",
+        "ticker": "RDOR3.SA",
+        "preco": 127.29,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-30",
+        "ticker": "TAEE3.SA",
+        "preco": 99.15,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-30",
+        "ticker": "TRPL3.SA",
+        "preco": 109.81,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-30",
+        "ticker": "XPLG11.SA",
+        "preco": 112.14,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-31",
+        "ticker": "FLRY3.SA",
+        "preco": 108.45,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-31",
+        "ticker": "HGLG11.SA",
+        "preco": 99.83,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-08-31",
+        "ticker": "JBSS3.SA",
+        "preco": 108.11,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-31",
+        "ticker": "LREN3.SA",
+        "preco": 106.8,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-31",
+        "ticker": "MGLU3.SA",
+        "preco": 86.25,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-08-31",
+        "ticker": "MRFG3.SA",
+        "preco": 117.62,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-08-31",
+        "ticker": "RDOR3.SA",
+        "preco": 127.38,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-08-31",
+        "ticker": "TAEE3.SA",
+        "preco": 97.61,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-31",
+        "ticker": "TRPL3.SA",
+        "preco": 109.81,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-08-31",
+        "ticker": "XPLG11.SA",
+        "preco": 112.96,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-01",
+        "ticker": "FLRY3.SA",
+        "preco": 108.23,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-01",
+        "ticker": "HGLG11.SA",
+        "preco": 99.05,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-01",
+        "ticker": "JBSS3.SA",
+        "preco": 108.75,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-01",
+        "ticker": "LREN3.SA",
+        "preco": 111.73,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-01",
+        "ticker": "MGLU3.SA",
+        "preco": 89.37,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-01",
+        "ticker": "MRFG3.SA",
+        "preco": 116.83,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-01",
+        "ticker": "RDOR3.SA",
+        "preco": 128.27,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-01",
+        "ticker": "TAEE3.SA",
+        "preco": 99.23,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-01",
+        "ticker": "TRPL3.SA",
+        "preco": 109.81,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-01",
+        "ticker": "XPLG11.SA",
+        "preco": 112.26,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-04",
+        "ticker": "FLRY3.SA",
+        "preco": 108.45,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-04",
+        "ticker": "HGLG11.SA",
+        "preco": 99.24,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-04",
+        "ticker": "JBSS3.SA",
+        "preco": 109.28,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-04",
+        "ticker": "LREN3.SA",
+        "preco": 109.53,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-04",
+        "ticker": "MGLU3.SA",
+        "preco": 86.87,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-04",
+        "ticker": "MRFG3.SA",
+        "preco": 116.51,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-04",
+        "ticker": "RDOR3.SA",
+        "preco": 129.33,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-04",
+        "ticker": "TAEE3.SA",
+        "preco": 99.32,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-04",
+        "ticker": "TRPL3.SA",
+        "preco": 109.06,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-04",
+        "ticker": "XPLG11.SA",
+        "preco": 112.56,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-05",
+        "ticker": "FLRY3.SA",
+        "preco": 105.15,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-05",
+        "ticker": "HGLG11.SA",
+        "preco": 99.06,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-05",
+        "ticker": "JBSS3.SA",
+        "preco": 109.81,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-05",
+        "ticker": "LREN3.SA",
+        "preco": 107.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-05",
+        "ticker": "MGLU3.SA",
+        "preco": 84.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-05",
+        "ticker": "MRFG3.SA",
+        "preco": 116.35,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-05",
+        "ticker": "RDOR3.SA",
+        "preco": 127.69,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-05",
+        "ticker": "TAEE3.SA",
+        "preco": 97.78,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-05",
+        "ticker": "TRPL3.SA",
+        "preco": 108.89,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-05",
+        "ticker": "XPLG11.SA",
+        "preco": 112.35,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-06",
+        "ticker": "FLRY3.SA",
+        "preco": 105.07,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-06",
+        "ticker": "HGLG11.SA",
+        "preco": 99.07,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-06",
+        "ticker": "JBSS3.SA",
+        "preco": 108.99,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-06",
+        "ticker": "LREN3.SA",
+        "preco": 103.73,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-06",
+        "ticker": "MGLU3.SA",
+        "preco": 80.94,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-06",
+        "ticker": "MRFG3.SA",
+        "preco": 115.87,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-06",
+        "ticker": "RDOR3.SA",
+        "preco": 125.87,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-06",
+        "ticker": "TAEE3.SA",
+        "preco": 96.84,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-06",
+        "ticker": "TRPL3.SA",
+        "preco": 107.79,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-06",
+        "ticker": "XPLG11.SA",
+        "preco": 112.26,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-08",
+        "ticker": "FLRY3.SA",
+        "preco": 104.71,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-08",
+        "ticker": "HGLG11.SA",
+        "preco": 99.24,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-08",
+        "ticker": "JBSS3.SA",
+        "preco": 108.28,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-08",
+        "ticker": "LREN3.SA",
+        "preco": 103.4,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-08",
+        "ticker": "MGLU3.SA",
+        "preco": 78.44,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-08",
+        "ticker": "MRFG3.SA",
+        "preco": 120.63,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-08",
+        "ticker": "RDOR3.SA",
+        "preco": 125.56,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-08",
+        "ticker": "TAEE3.SA",
+        "preco": 97.53,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-08",
+        "ticker": "TRPL3.SA",
+        "preco": 109.06,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-08",
+        "ticker": "XPLG11.SA",
+        "preco": 112.96,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-11",
+        "ticker": "FLRY3.SA",
+        "preco": 106.18,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-11",
+        "ticker": "HGLG11.SA",
+        "preco": 99.08,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-11",
+        "ticker": "JBSS3.SA",
+        "preco": 109.99,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-11",
+        "ticker": "LREN3.SA",
+        "preco": 104.93,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-11",
+        "ticker": "MGLU3.SA",
+        "preco": 79.69,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-11",
+        "ticker": "MRFG3.SA",
+        "preco": 118.41,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-11",
+        "ticker": "RDOR3.SA",
+        "preco": 130.58,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-11",
+        "ticker": "TAEE3.SA",
+        "preco": 98.38,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-11",
+        "ticker": "TRPL3.SA",
+        "preco": 108.55,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-11",
+        "ticker": "XPLG11.SA",
+        "preco": 112.74,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-12",
+        "ticker": "FLRY3.SA",
+        "preco": 107.87,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-12",
+        "ticker": "HGLG11.SA",
+        "preco": 99.32,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-12",
+        "ticker": "JBSS3.SA",
+        "preco": 111.4,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-12",
+        "ticker": "LREN3.SA",
+        "preco": 106.66,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-12",
+        "ticker": "MGLU3.SA",
+        "preco": 81.87,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-12",
+        "ticker": "MRFG3.SA",
+        "preco": 120.79,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-12",
+        "ticker": "RDOR3.SA",
+        "preco": 129.24,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-12",
+        "ticker": "TAEE3.SA",
+        "preco": 98.55,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-12",
+        "ticker": "TRPL3.SA",
+        "preco": 109.71,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-12",
+        "ticker": "XPLG11.SA",
+        "preco": 112.32,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-13",
+        "ticker": "FLRY3.SA",
+        "preco": 107.65,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-13",
+        "ticker": "HGLG11.SA",
+        "preco": 99.08,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-13",
+        "ticker": "JBSS3.SA",
+        "preco": 111.81,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-13",
+        "ticker": "LREN3.SA",
+        "preco": 108.26,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-13",
+        "ticker": "MGLU3.SA",
+        "preco": 81.87,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-13",
+        "ticker": "MRFG3.SA",
+        "preco": 118.73,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-13",
+        "ticker": "RDOR3.SA",
+        "preco": 130.53,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-13",
+        "ticker": "TAEE3.SA",
+        "preco": 98.98,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-13",
+        "ticker": "TRPL3.SA",
+        "preco": 111.38,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-13",
+        "ticker": "XPLG11.SA",
+        "preco": 112.18,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-14",
+        "ticker": "FLRY3.SA",
+        "preco": 106.62,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-14",
+        "ticker": "HGLG11.SA",
+        "preco": 98.92,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-14",
+        "ticker": "JBSS3.SA",
+        "preco": 111.52,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-14",
+        "ticker": "LREN3.SA",
+        "preco": 107.0,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-14",
+        "ticker": "MGLU3.SA",
+        "preco": 80.62,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-14",
+        "ticker": "MRFG3.SA",
+        "preco": 117.14,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-14",
+        "ticker": "RDOR3.SA",
+        "preco": 127.29,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-14",
+        "ticker": "TAEE3.SA",
+        "preco": 99.15,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-14",
+        "ticker": "TRPL3.SA",
+        "preco": 109.4,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-14",
+        "ticker": "XPLG11.SA",
+        "preco": 112.66,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-15",
+        "ticker": "FLRY3.SA",
+        "preco": 107.5,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-15",
+        "ticker": "HGLG11.SA",
+        "preco": 100.15,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-15",
+        "ticker": "JBSS3.SA",
+        "preco": 111.16,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-15",
+        "ticker": "LREN3.SA",
+        "preco": 103.8,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-15",
+        "ticker": "MGLU3.SA",
+        "preco": 77.5,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-15",
+        "ticker": "MRFG3.SA",
+        "preco": 115.08,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-15",
+        "ticker": "RDOR3.SA",
+        "preco": 127.91,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-15",
+        "ticker": "TAEE3.SA",
+        "preco": 100.26,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-15",
+        "ticker": "TRPL3.SA",
+        "preco": 107.9,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-15",
+        "ticker": "XPLG11.SA",
+        "preco": 115.18,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-18",
+        "ticker": "FLRY3.SA",
+        "preco": 107.57,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-18",
+        "ticker": "HGLG11.SA",
+        "preco": 99.5,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-18",
+        "ticker": "JBSS3.SA",
+        "preco": 109.69,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-18",
+        "ticker": "LREN3.SA",
+        "preco": 102.8,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-18",
+        "ticker": "MGLU3.SA",
+        "preco": 80.62,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-18",
+        "ticker": "MRFG3.SA",
+        "preco": 113.17,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-18",
+        "ticker": "RDOR3.SA",
+        "preco": 126.09,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-18",
+        "ticker": "TAEE3.SA",
+        "preco": 100.26,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-18",
+        "ticker": "TRPL3.SA",
+        "preco": 108.38,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-18",
+        "ticker": "XPLG11.SA",
+        "preco": 114.38,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-19",
+        "ticker": "FLRY3.SA",
+        "preco": 107.35,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-19",
+        "ticker": "HGLG11.SA",
+        "preco": 99.45,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-19",
+        "ticker": "JBSS3.SA",
+        "preco": 109.52,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-19",
+        "ticker": "LREN3.SA",
+        "preco": 97.27,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-19",
+        "ticker": "MGLU3.SA",
+        "preco": 78.75,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-19",
+        "ticker": "MRFG3.SA",
+        "preco": 117.78,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-19",
+        "ticker": "RDOR3.SA",
+        "preco": 123.56,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-19",
+        "ticker": "TAEE3.SA",
+        "preco": 99.57,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-19",
+        "ticker": "TRPL3.SA",
+        "preco": 108.62,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-19",
+        "ticker": "XPLG11.SA",
+        "preco": 113.56,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-20",
+        "ticker": "FLRY3.SA",
+        "preco": 109.34,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-20",
+        "ticker": "HGLG11.SA",
+        "preco": 99.08,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-20",
+        "ticker": "JBSS3.SA",
+        "preco": 109.4,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-20",
+        "ticker": "LREN3.SA",
+        "preco": 97.67,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-20",
+        "ticker": "MGLU3.SA",
+        "preco": 78.75,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-20",
+        "ticker": "MRFG3.SA",
+        "preco": 115.71,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-20",
+        "ticker": "RDOR3.SA",
+        "preco": 122.18,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-20",
+        "ticker": "TAEE3.SA",
+        "preco": 99.83,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-20",
+        "ticker": "TRPL3.SA",
+        "preco": 108.21,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-20",
+        "ticker": "XPLG11.SA",
+        "preco": 113.4,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-21",
+        "ticker": "FLRY3.SA",
+        "preco": 109.7,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-21",
+        "ticker": "HGLG11.SA",
+        "preco": 99.56,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-21",
+        "ticker": "JBSS3.SA",
+        "preco": 107.64,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-21",
+        "ticker": "LREN3.SA",
+        "preco": 92.94,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-21",
+        "ticker": "MGLU3.SA",
+        "preco": 73.44,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-21",
+        "ticker": "MRFG3.SA",
+        "preco": 113.33,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-21",
+        "ticker": "RDOR3.SA",
+        "preco": 117.78,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-21",
+        "ticker": "TAEE3.SA",
+        "preco": 99.91,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-21",
+        "ticker": "TRPL3.SA",
+        "preco": 107.49,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-21",
+        "ticker": "XPLG11.SA",
+        "preco": 112.73,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-22",
+        "ticker": "FLRY3.SA",
+        "preco": 109.34,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-22",
+        "ticker": "HGLG11.SA",
+        "preco": 99.08,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-22",
+        "ticker": "JBSS3.SA",
+        "preco": 107.05,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-22",
+        "ticker": "LREN3.SA",
+        "preco": 92.54,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-22",
+        "ticker": "MGLU3.SA",
+        "preco": 70.0,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-22",
+        "ticker": "MRFG3.SA",
+        "preco": 111.75,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-22",
+        "ticker": "RDOR3.SA",
+        "preco": 117.42,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-22",
+        "ticker": "TAEE3.SA",
+        "preco": 99.4,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-22",
+        "ticker": "TRPL3.SA",
+        "preco": 107.28,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-22",
+        "ticker": "XPLG11.SA",
+        "preco": 113.2,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-25",
+        "ticker": "FLRY3.SA",
+        "preco": 111.39,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-25",
+        "ticker": "HGLG11.SA",
+        "preco": 99.29,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-25",
+        "ticker": "JBSS3.SA",
+        "preco": 106.4,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-25",
+        "ticker": "LREN3.SA",
+        "preco": 91.94,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-25",
+        "ticker": "MGLU3.SA",
+        "preco": 67.19,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-25",
+        "ticker": "MRFG3.SA",
+        "preco": 110.79,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-25",
+        "ticker": "RDOR3.SA",
+        "preco": 117.11,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-25",
+        "ticker": "TAEE3.SA",
+        "preco": 98.46,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-25",
+        "ticker": "TRPL3.SA",
+        "preco": 107.28,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-25",
+        "ticker": "XPLG11.SA",
+        "preco": 112.78,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-26",
+        "ticker": "FLRY3.SA",
+        "preco": 109.85,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-26",
+        "ticker": "HGLG11.SA",
+        "preco": 99.08,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-26",
+        "ticker": "JBSS3.SA",
+        "preco": 104.82,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-26",
+        "ticker": "LREN3.SA",
+        "preco": 87.67,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-26",
+        "ticker": "MGLU3.SA",
+        "preco": 65.62,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-26",
+        "ticker": "MRFG3.SA",
+        "preco": 111.11,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-26",
+        "ticker": "RDOR3.SA",
+        "preco": 113.56,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-26",
+        "ticker": "TAEE3.SA",
+        "preco": 97.53,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-26",
+        "ticker": "TRPL3.SA",
+        "preco": 106.87,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-26",
+        "ticker": "XPLG11.SA",
+        "preco": 112.36,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-27",
+        "ticker": "FLRY3.SA",
+        "preco": 109.63,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-27",
+        "ticker": "HGLG11.SA",
+        "preco": 98.77,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-27",
+        "ticker": "JBSS3.SA",
+        "preco": 103.82,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-27",
+        "ticker": "LREN3.SA",
+        "preco": 85.94,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-27",
+        "ticker": "MGLU3.SA",
+        "preco": 63.75,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-27",
+        "ticker": "MRFG3.SA",
+        "preco": 112.06,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-27",
+        "ticker": "RDOR3.SA",
+        "preco": 110.76,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-27",
+        "ticker": "TAEE3.SA",
+        "preco": 98.21,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-27",
+        "ticker": "TRPL3.SA",
+        "preco": 104.96,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-27",
+        "ticker": "XPLG11.SA",
+        "preco": 112.62,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-28",
+        "ticker": "FLRY3.SA",
+        "preco": 111.17,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-28",
+        "ticker": "HGLG11.SA",
+        "preco": 98.77,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-28",
+        "ticker": "JBSS3.SA",
+        "preco": 104.47,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-28",
+        "ticker": "LREN3.SA",
+        "preco": 89.41,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-28",
+        "ticker": "MGLU3.SA",
+        "preco": 64.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-28",
+        "ticker": "MRFG3.SA",
+        "preco": 112.38,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-28",
+        "ticker": "RDOR3.SA",
+        "preco": 110.84,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-28",
+        "ticker": "TAEE3.SA",
+        "preco": 98.21,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-28",
+        "ticker": "TRPL3.SA",
+        "preco": 104.96,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-28",
+        "ticker": "XPLG11.SA",
+        "preco": 112.94,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-29",
+        "ticker": "FLRY3.SA",
+        "preco": 111.32,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-29",
+        "ticker": "HGLG11.SA",
+        "preco": 99.37,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-09-29",
+        "ticker": "JBSS3.SA",
+        "preco": 106.05,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-29",
+        "ticker": "LREN3.SA",
+        "preco": 89.27,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-29",
+        "ticker": "MGLU3.SA",
+        "preco": 66.25,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-09-29",
+        "ticker": "MRFG3.SA",
+        "preco": 113.17,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-09-29",
+        "ticker": "RDOR3.SA",
+        "preco": 112.93,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-09-29",
+        "ticker": "TAEE3.SA",
+        "preco": 98.21,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-29",
+        "ticker": "TRPL3.SA",
+        "preco": 105.98,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-09-29",
+        "ticker": "XPLG11.SA",
+        "preco": 113.06,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-02",
+        "ticker": "FLRY3.SA",
+        "preco": 115.07,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-02",
+        "ticker": "HGLG11.SA",
+        "preco": 98.34,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-02",
+        "ticker": "JBSS3.SA",
+        "preco": 105.93,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-02",
+        "ticker": "LREN3.SA",
+        "preco": 85.61,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-02",
+        "ticker": "MGLU3.SA",
+        "preco": 62.81,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-02",
+        "ticker": "MRFG3.SA",
+        "preco": 113.97,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-02",
+        "ticker": "RDOR3.SA",
+        "preco": 110.62,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-02",
+        "ticker": "TAEE3.SA",
+        "preco": 98.38,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-02",
+        "ticker": "TRPL3.SA",
+        "preco": 105.2,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-02",
+        "ticker": "XPLG11.SA",
+        "preco": 112.16,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-03",
+        "ticker": "FLRY3.SA",
+        "preco": 117.56,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-03",
+        "ticker": "HGLG11.SA",
+        "preco": 98.4,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-03",
+        "ticker": "JBSS3.SA",
+        "preco": 106.64,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-03",
+        "ticker": "LREN3.SA",
+        "preco": 83.48,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-03",
+        "ticker": "MGLU3.SA",
+        "preco": 57.5,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-03",
+        "ticker": "MRFG3.SA",
+        "preco": 112.54,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-03",
+        "ticker": "RDOR3.SA",
+        "preco": 107.6,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-03",
+        "ticker": "TAEE3.SA",
+        "preco": 96.16,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-03",
+        "ticker": "TRPL3.SA",
+        "preco": 104.41,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-03",
+        "ticker": "XPLG11.SA",
+        "preco": 112.54,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-04",
+        "ticker": "FLRY3.SA",
+        "preco": 116.46,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-04",
+        "ticker": "HGLG11.SA",
+        "preco": 98.4,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-04",
+        "ticker": "JBSS3.SA",
+        "preco": 106.99,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-04",
+        "ticker": "LREN3.SA",
+        "preco": 86.14,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-04",
+        "ticker": "MGLU3.SA",
+        "preco": 59.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-04",
+        "ticker": "MRFG3.SA",
+        "preco": 109.52,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-04",
+        "ticker": "RDOR3.SA",
+        "preco": 109.07,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-04",
+        "ticker": "TAEE3.SA",
+        "preco": 97.27,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-04",
+        "ticker": "TRPL3.SA",
+        "preco": 103.01,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-04",
+        "ticker": "XPLG11.SA",
+        "preco": 112.62,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-05",
+        "ticker": "FLRY3.SA",
+        "preco": 115.36,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-05",
+        "ticker": "HGLG11.SA",
+        "preco": 98.26,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-05",
+        "ticker": "JBSS3.SA",
+        "preco": 106.99,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-05",
+        "ticker": "LREN3.SA",
+        "preco": 84.81,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-05",
+        "ticker": "MGLU3.SA",
+        "preco": 56.56,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-05",
+        "ticker": "MRFG3.SA",
+        "preco": 108.89,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-05",
+        "ticker": "RDOR3.SA",
+        "preco": 107.87,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-05",
+        "ticker": "TAEE3.SA",
+        "preco": 96.84,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-05",
+        "ticker": "TRPL3.SA",
+        "preco": 102.74,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-05",
+        "ticker": "XPLG11.SA",
+        "preco": 112.66,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-06",
+        "ticker": "FLRY3.SA",
+        "preco": 114.18,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-06",
+        "ticker": "HGLG11.SA",
+        "preco": 97.85,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-06",
+        "ticker": "JBSS3.SA",
+        "preco": 106.76,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-06",
+        "ticker": "LREN3.SA",
+        "preco": 83.88,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-06",
+        "ticker": "MGLU3.SA",
+        "preco": 55.62,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-06",
+        "ticker": "MRFG3.SA",
+        "preco": 108.89,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-06",
+        "ticker": "RDOR3.SA",
+        "preco": 107.73,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-06",
+        "ticker": "TAEE3.SA",
+        "preco": 97.18,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-06",
+        "ticker": "TRPL3.SA",
+        "preco": 102.39,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-06",
+        "ticker": "XPLG11.SA",
+        "preco": 112.06,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-09",
+        "ticker": "FLRY3.SA",
+        "preco": 114.41,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-09",
+        "ticker": "HGLG11.SA",
+        "preco": 97.85,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-09",
+        "ticker": "JBSS3.SA",
+        "preco": 107.99,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-09",
+        "ticker": "LREN3.SA",
+        "preco": 84.48,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-09",
+        "ticker": "MGLU3.SA",
+        "preco": 58.12,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-09",
+        "ticker": "MRFG3.SA",
+        "preco": 109.05,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-09",
+        "ticker": "RDOR3.SA",
+        "preco": 108.89,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-09",
+        "ticker": "TAEE3.SA",
+        "preco": 96.33,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-09",
+        "ticker": "TRPL3.SA",
+        "preco": 102.36,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-09",
+        "ticker": "XPLG11.SA",
+        "preco": 111.86,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-10",
+        "ticker": "FLRY3.SA",
+        "preco": 117.2,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-10",
+        "ticker": "HGLG11.SA",
+        "preco": 97.85,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-10",
+        "ticker": "JBSS3.SA",
+        "preco": 110.4,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-10",
+        "ticker": "LREN3.SA",
+        "preco": 86.61,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-10",
+        "ticker": "MGLU3.SA",
+        "preco": 62.19,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-10",
+        "ticker": "MRFG3.SA",
+        "preco": 111.9,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-10",
+        "ticker": "RDOR3.SA",
+        "preco": 111.78,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-10",
+        "ticker": "TAEE3.SA",
+        "preco": 97.01,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-10",
+        "ticker": "TRPL3.SA",
+        "preco": 102.32,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-10",
+        "ticker": "XPLG11.SA",
+        "preco": 112.08,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-11",
+        "ticker": "FLRY3.SA",
+        "preco": 117.2,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-11",
+        "ticker": "HGLG11.SA",
+        "preco": 97.85,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-11",
+        "ticker": "JBSS3.SA",
+        "preco": 112.63,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-11",
+        "ticker": "LREN3.SA",
+        "preco": 87.28,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-11",
+        "ticker": "MGLU3.SA",
+        "preco": 59.69,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-11",
+        "ticker": "MRFG3.SA",
+        "preco": 111.27,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-11",
+        "ticker": "RDOR3.SA",
+        "preco": 108.04,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-11",
+        "ticker": "TAEE3.SA",
+        "preco": 96.5,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-11",
+        "ticker": "TRPL3.SA",
+        "preco": 101.33,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-11",
+        "ticker": "XPLG11.SA",
+        "preco": 111.91,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-13",
+        "ticker": "FLRY3.SA",
+        "preco": 113.52,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-13",
+        "ticker": "HGLG11.SA",
+        "preco": 97.75,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-13",
+        "ticker": "JBSS3.SA",
+        "preco": 111.46,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-13",
+        "ticker": "LREN3.SA",
+        "preco": 84.54,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-13",
+        "ticker": "MGLU3.SA",
+        "preco": 56.88,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-13",
+        "ticker": "MRFG3.SA",
+        "preco": 108.73,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-13",
+        "ticker": "RDOR3.SA",
+        "preco": 101.6,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-13",
+        "ticker": "TAEE3.SA",
+        "preco": 95.31,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-13",
+        "ticker": "TRPL3.SA",
+        "preco": 101.81,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-13",
+        "ticker": "XPLG11.SA",
+        "preco": 112.13,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-16",
+        "ticker": "FLRY3.SA",
+        "preco": 114.55,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-16",
+        "ticker": "HGLG11.SA",
+        "preco": 98.03,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-16",
+        "ticker": "JBSS3.SA",
+        "preco": 112.87,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-16",
+        "ticker": "LREN3.SA",
+        "preco": 86.34,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-16",
+        "ticker": "MGLU3.SA",
+        "preco": 55.94,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-16",
+        "ticker": "MRFG3.SA",
+        "preco": 109.84,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-16",
+        "ticker": "RDOR3.SA",
+        "preco": 103.56,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-16",
+        "ticker": "TAEE3.SA",
+        "preco": 95.9,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-16",
+        "ticker": "TRPL3.SA",
+        "preco": 100.82,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-16",
+        "ticker": "XPLG11.SA",
+        "preco": 111.67,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-17",
+        "ticker": "FLRY3.SA",
+        "preco": 113.16,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-17",
+        "ticker": "HGLG11.SA",
+        "preco": 98.34,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-17",
+        "ticker": "JBSS3.SA",
+        "preco": 111.81,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-17",
+        "ticker": "LREN3.SA",
+        "preco": 85.34,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-17",
+        "ticker": "MGLU3.SA",
+        "preco": 52.81,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-17",
+        "ticker": "MRFG3.SA",
+        "preco": 105.56,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-17",
+        "ticker": "RDOR3.SA",
+        "preco": 102.36,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-17",
+        "ticker": "TAEE3.SA",
+        "preco": 94.8,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-17",
+        "ticker": "TRPL3.SA",
+        "preco": 100.68,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-17",
+        "ticker": "XPLG11.SA",
+        "preco": 111.66,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-18",
+        "ticker": "FLRY3.SA",
+        "preco": 110.44,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-18",
+        "ticker": "HGLG11.SA",
+        "preco": 98.01,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-18",
+        "ticker": "JBSS3.SA",
+        "preco": 112.98,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-18",
+        "ticker": "LREN3.SA",
+        "preco": 81.55,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-18",
+        "ticker": "MGLU3.SA",
+        "preco": 54.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-18",
+        "ticker": "MRFG3.SA",
+        "preco": 103.97,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-18",
+        "ticker": "RDOR3.SA",
+        "preco": 100.62,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-18",
+        "ticker": "TAEE3.SA",
+        "preco": 95.22,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-18",
+        "ticker": "TRPL3.SA",
+        "preco": 100.58,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-18",
+        "ticker": "XPLG11.SA",
+        "preco": 111.17,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-19",
+        "ticker": "FLRY3.SA",
+        "preco": 111.1,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-19",
+        "ticker": "HGLG11.SA",
+        "preco": 97.81,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-19",
+        "ticker": "JBSS3.SA",
+        "preco": 111.46,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-19",
+        "ticker": "LREN3.SA",
+        "preco": 82.21,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-19",
+        "ticker": "MGLU3.SA",
+        "preco": 50.31,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-19",
+        "ticker": "MRFG3.SA",
+        "preco": 100.63,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-19",
+        "ticker": "RDOR3.SA",
+        "preco": 102.67,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-19",
+        "ticker": "TAEE3.SA",
+        "preco": 96.25,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-19",
+        "ticker": "TRPL3.SA",
+        "preco": 100.85,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-19",
+        "ticker": "XPLG11.SA",
+        "preco": 110.21,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-20",
+        "ticker": "FLRY3.SA",
+        "preco": 111.54,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-20",
+        "ticker": "HGLG11.SA",
+        "preco": 97.68,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-20",
+        "ticker": "JBSS3.SA",
+        "preco": 112.81,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-20",
+        "ticker": "LREN3.SA",
+        "preco": 81.41,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-20",
+        "ticker": "MGLU3.SA",
+        "preco": 48.12,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-20",
+        "ticker": "MRFG3.SA",
+        "preco": 100.32,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-20",
+        "ticker": "RDOR3.SA",
+        "preco": 103.87,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-20",
+        "ticker": "TAEE3.SA",
+        "preco": 95.05,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-20",
+        "ticker": "TRPL3.SA",
+        "preco": 102.7,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-20",
+        "ticker": "XPLG11.SA",
+        "preco": 109.57,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-23",
+        "ticker": "FLRY3.SA",
+        "preco": 114.33,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-23",
+        "ticker": "HGLG11.SA",
+        "preco": 97.42,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-23",
+        "ticker": "JBSS3.SA",
+        "preco": 113.98,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-23",
+        "ticker": "LREN3.SA",
+        "preco": 82.61,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-23",
+        "ticker": "MGLU3.SA",
+        "preco": 47.19,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-23",
+        "ticker": "MRFG3.SA",
+        "preco": 100.95,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-23",
+        "ticker": "RDOR3.SA",
+        "preco": 106.27,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-23",
+        "ticker": "TAEE3.SA",
+        "preco": 95.82,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-23",
+        "ticker": "TRPL3.SA",
+        "preco": 103.59,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-23",
+        "ticker": "XPLG11.SA",
+        "preco": 109.26,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-24",
+        "ticker": "FLRY3.SA",
+        "preco": 114.99,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-24",
+        "ticker": "HGLG11.SA",
+        "preco": 97.05,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-24",
+        "ticker": "JBSS3.SA",
+        "preco": 113.63,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-24",
+        "ticker": "LREN3.SA",
+        "preco": 82.48,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-24",
+        "ticker": "MGLU3.SA",
+        "preco": 44.06,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-24",
+        "ticker": "MRFG3.SA",
+        "preco": 102.06,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-24",
+        "ticker": "RDOR3.SA",
+        "preco": 104.67,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-24",
+        "ticker": "TAEE3.SA",
+        "preco": 96.33,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-24",
+        "ticker": "TRPL3.SA",
+        "preco": 101.54,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-24",
+        "ticker": "XPLG11.SA",
+        "preco": 107.49,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-25",
+        "ticker": "FLRY3.SA",
+        "preco": 113.52,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-25",
+        "ticker": "HGLG11.SA",
+        "preco": 97.19,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-25",
+        "ticker": "JBSS3.SA",
+        "preco": 113.4,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-25",
+        "ticker": "LREN3.SA",
+        "preco": 82.28,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-25",
+        "ticker": "MGLU3.SA",
+        "preco": 45.0,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-25",
+        "ticker": "MRFG3.SA",
+        "preco": 100.79,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-25",
+        "ticker": "RDOR3.SA",
+        "preco": 99.07,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-25",
+        "ticker": "TAEE3.SA",
+        "preco": 95.9,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-25",
+        "ticker": "TRPL3.SA",
+        "preco": 102.26,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-25",
+        "ticker": "XPLG11.SA",
+        "preco": 107.0,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-26",
+        "ticker": "FLRY3.SA",
+        "preco": 113.82,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-26",
+        "ticker": "HGLG11.SA",
+        "preco": 96.92,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-26",
+        "ticker": "JBSS3.SA",
+        "preco": 117.33,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-26",
+        "ticker": "LREN3.SA",
+        "preco": 84.48,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-26",
+        "ticker": "MGLU3.SA",
+        "preco": 45.94,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-26",
+        "ticker": "MRFG3.SA",
+        "preco": 103.33,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-26",
+        "ticker": "RDOR3.SA",
+        "preco": 101.73,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-26",
+        "ticker": "TAEE3.SA",
+        "preco": 97.01,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-26",
+        "ticker": "TRPL3.SA",
+        "preco": 103.25,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-26",
+        "ticker": "XPLG11.SA",
+        "preco": 106.4,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-27",
+        "ticker": "FLRY3.SA",
+        "preco": 111.03,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-27",
+        "ticker": "HGLG11.SA",
+        "preco": 97.08,
+        "segmento": "FII"
+    },
+    {
+        "data": "2023-10-27",
+        "ticker": "JBSS3.SA",
+        "preco": 116.86,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-27",
+        "ticker": "LREN3.SA",
+        "preco": 81.15,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-27",
+        "ticker": "MGLU3.SA",
+        "preco": 45.63,
+        "segmento": "Varejo"
+    },
+    {
+        "data": "2023-10-27",
+        "ticker": "MRFG3.SA",
+        "preco": 101.27,
+        "segmento": "Alimento"
+    },
+    {
+        "data": "2023-10-27",
+        "ticker": "RDOR3.SA",
+        "preco": 98.13,
+        "segmento": "Saude"
+    },
+    {
+        "data": "2023-10-27",
+        "ticker": "TAEE3.SA",
+        "preco": 96.08,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-27",
+        "ticker": "TRPL3.SA",
+        "preco": 102.22,
+        "segmento": "Energia"
+    },
+    {
+        "data": "2023-10-27",
+        "ticker": "XPLG11.SA",
+        "preco": 107.37,
+        "segmento": "FII"
+    }
+]

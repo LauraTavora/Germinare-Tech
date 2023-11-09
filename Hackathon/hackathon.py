@@ -34,7 +34,7 @@ selic = 12.75
 inflação = 5.19
 
 
-def menu():
+def entrada_de_dados():
     print('''-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=MENU PERFIL DE INVESTIDOR-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 1- Conservador: O investidor conservador está disposto a renunciar a rentabilidade em troca de mais segurança.
 2- Moderado: O investidor moderado possui tolerância a riscos de longo prazo, sendo assim ele escolhe por investimentos mais arriscados dependendo da situação:
@@ -45,7 +45,9 @@ def menu():
     escolha = int(input('Digite sua escolha para o perfil de investidor: '))
     while escolha != 1 and escolha != 2 and escolha != 3:
             print('Escolha inválida. Digite um valor válido (1,2,3)')
-            continue
+            escolha = int(input('Digite sua escolha para o perfil de investidor: '))
+            
 
     
-menu()
+entrada_de_dados()
+
